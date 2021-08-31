@@ -1,0 +1,853 @@
+,0,1,2,3
+0,"[('vel y', '(0.341, 0.455]')]",Fire right engine,"Fire right engine    0.013736
+         ","Fire right engine    1.0
+         "
+1,"[('vel y', '(0.227, 0.341]'), ('pos x', '(-0.118, -0.06]')]",No action,"No action    0.001068
+         ","No action    1.0
+         "
+2,"[('vel y', '(0.227, 0.341]'), ('angleVel', '(0.0286, 0.095]')]",Fire right engine,"Fire right engine    0.019231
+         ","Fire right engine    1.0
+         "
+3,"[('vel y', '(0.227, 0.341]'), ('angleVel', '(0.161, 0.228]')]",Fire right engine,"Fire right engine    0.002747
+         ","Fire right engine    1.0
+         "
+4,"[('vel y', '(0.227, 0.341]'), ('angleVel', '(0.095, 0.161]')]",Fire right engine,"Fire right engine    0.008242
+         ","Fire right engine    1.0
+         "
+5,"[('vel x', '(-0.544, -0.413]'), ('pos x', '(-0.293, -0.235]')]",Fire down engine,"Fire down engine    0.021601
+         ","Fire down engine    1.0
+         "
+6,"[('vel x', '(-0.413, -0.281]'), ('pos x', '(-0.293, -0.235]')]",Fire down engine,"Fire down engine    0.001906
+         ","Fire down engine    1.0
+         "
+7,"[('vel y', '(0.113, 0.227]'), ('pos x', '(-0.118, -0.06]')]",No action,"No action    0.009615
+         ","No action    1.0
+         "
+8,"[('vel y', '(-0.686, -0.571]'), ('pos x', '(-0.235, -0.176]')]",Fire down engine,"Fire down engine    0.005083
+         ","Fire down engine    1.0
+         "
+9,"[('contact_2', '(0.5, 1.0]'), ('vel x', '(0.113, 0.245]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+10,"[('contact_2', '(0.5, 1.0]'), ('vel x', '(-0.281, -0.15]')]",Fire right engine,"Fire right engine    0.010989
+         ","Fire right engine    1.0
+         "
+11,"[('contact_2', '(0.5, 1.0]'), ('angleVel', '(0.0286, 0.095]')]",No action,"No action    0.001068
+         ","No action    1.0
+         "
+12,"[('contact_2', '(0.5, 1.0]'), ('angleVel', '(0.095, 0.161]')]",Fire right engine,"Fire right engine    0.002747
+         ","Fire right engine    1.0
+         "
+13,"[('contact_2', '(0.5, 1.0]'), ('angleVel', '(-0.237, -0.171]')]",Fire down engine,"Fire down engine    0.001906
+         ","Fire down engine    1.0
+         "
+14,"[('contact_2', '(0.5, 1.0]'), ('angle', '(-0.0912, -0.00624]')]",Fire right engine,"Fire right engine    0.002747
+         ","Fire right engine    1.0
+         "
+15,"[('contact_1', '(0.5, 1.0]'), ('angleVel', '(0.228, 0.294]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+16,"[('contact_1', '(0.5, 1.0]'), ('angleVel', '(0.161, 0.228]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+17,"[('vel y', '(0.113, 0.227]'), ('angleVel', '(0.0286, 0.095]')]",Fire right engine,"Fire right engine    0.008242
+         ","Fire right engine    1.0
+         "
+18,"[('vel y', '(0.113, 0.227]'), ('angleVel', '(-0.104, -0.0378]')]",No action,"No action    0.003205
+         ","No action    1.0
+         "
+19,"[('vel y', '(-0.686, -0.571]'), ('pos y', '(0.597, 0.748]')]",Fire down engine,"Fire down engine    0.001271
+         ","Fire down engine    1.0
+         "
+20,"[('vel y', '(-0.686, -0.571]'), ('pos y', '(1.353, 1.504]')]",Fire right engine,"Fire right engine    0.005495
+         ","Fire right engine    1.0
+         "
+21,"[('vel y', '(-0.686, -0.571]'), ('angleVel', '(0.228, 0.294]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+22,"[('vel y', '(-0.686, -0.571]'), ('angleVel', '(-0.171, -0.104]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+23,"[('vel y', '(-0.686, -0.571]'), ('angleVel', '(-0.104, -0.0378]')]",Fire down engine,"Fire down engine    0.002541
+         ","Fire down engine    1.0
+         "
+24,"[('vel y', '(-0.686, -0.571]'), ('pos x', '(-0.118, -0.06]')]",Fire right engine,"Fire right engine    0.002747
+         ","Fire right engine    1.0
+         "
+25,"[('vel y', '(-0.686, -0.571]'), ('angleVel', '(0.095, 0.161]'), ('pos y', '(0.748, 0.899]')]",Fire down engine,"Fire down engine    0.008259
+         ","Fire down engine    1.0
+         "
+26,"[('vel y', '(-0.686, -0.571]'), ('angle', '(-0.0912, -0.00624]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+27,"[('contact_2', '(0.5, 1.0]'), ('vel x', '(-0.15, -0.0182]'), ('angleVel', '(-0.0378, 0.0286]')]",Fire right engine,"Fire right engine    0.027473
+         ","Fire right engine    1.0
+         "
+28,"[('contact_2', '(0.5, 1.0]'), ('pos x', '(-0.06, -0.00173]'), ('vel y', '(-0.115, -0.000902]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+29,"[('contact_1', '(0.5, 1.0]'), ('angleVel', '(0.095, 0.161]'), ('pos x', '(-0.00173, 0.0565]')]",Fire down engine,"Fire down engine    0.001906
+         ","Fire down engine    1.0
+         "
+30,"[('contact_2', '(0.5, 1.0]'), ('angleVel', '(-0.0378, 0.0286]'), ('contact_1', '(-0.001, 0.5]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+31,"[('contact_2', '(0.5, 1.0]'), ('angleVel', '(-0.0378, 0.0286]'), ('vel y', '(-0.115, -0.000902]')]",No action,"No action    0.001068
+         ","No action    1.0
+         "
+32,"[('contact_2', '(0.5, 1.0]'), ('pos x', '(-0.06, -0.00173]'), ('vel x', '(-0.0182, 0.113]'), ('angleVel', '(-0.104, -0.0378]')]",No action,"No action    0.002137
+         ","No action    1.0
+         "
+33,"[('contact_1', '(0.5, 1.0]'), ('angleVel', '(-0.104, -0.0378]')]",Fire right engine,"Fire right engine    0.008242
+         ","Fire right engine    1.0
+         "
+34,"[('contact_2', '(0.5, 1.0]'), ('pos x', '(-0.06, -0.00173]'), ('vel x', '(-0.0182, 0.113]')]",No action,"No action            0.088675
+Fire right engine    0.006410
+Fire left engine     0.003205
+         ","No action            0.902174
+Fire right engine    0.065217
+Fire left engine     0.032609
+         "
+35,"[('vel y', '(-0.686, -0.571]'), ('angleVel', '(0.095, 0.161]'), ('pos x', '(-0.351, -0.293]'), ('pos y', '(0.899, 1.051]')]",Fire down engine,"Fire down engine    0.002541
+         ","Fire down engine    1.0
+         "
+36,"[('contact_2', '(0.5, 1.0]'), ('angleVel', '(-0.0378, 0.0286]'), ('pos x', '(-0.00173, 0.0565]')]",No action,"No action            0.178419
+Fire right engine    0.035256
+         ","No action            0.835
+Fire right engine    0.165
+         "
+37,"[('vel x', '(0.376, 0.508]'), ('pos x', '(-0.118, -0.06]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+38,"[('vel x', '(0.376, 0.508]'), ('pos y', '(0.748, 0.899]')]",No action,"No action    0.001068
+         ","No action    1.0
+         "
+39,"[('vel y', '(-0.571, -0.457]'), ('pos y', '(0.295, 0.446]')]",Fire down engine,"Fire down engine    0.001271
+         ","Fire down engine    1.0
+         "
+40,"[('vel y', '(-0.571, -0.457]'), ('vel x', '(-0.0182, 0.113]')]",Fire right engine,"Fire right engine    0.002747
+         ","Fire right engine    1.0
+         "
+41,"[('vel y', '(-0.571, -0.457]'), ('angleVel', '(-0.237, -0.171]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+42,"[('vel y', '(-0.571, -0.457]'), ('pos x', '(-0.176, -0.118]'), ('pos y', '(0.446, 0.597]')]",Fire down engine,"Fire down engine    0.003812
+         ","Fire down engine    1.0
+         "
+43,"[('vel x', '(0.376, 0.508]'), ('pos x', '(-0.176, -0.118]'), ('pos y', '(0.446, 0.597]')]",Fire down engine,"Fire down engine    0.001906
+         ","Fire down engine    1.0
+         "
+44,"[('vel y', '(-0.686, -0.571]'), ('pos x', '(-0.293, -0.235]'), ('angleVel', '(0.0286, 0.095]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+45,"[('vel y', '(-0.686, -0.571]'), ('pos y', '(0.748, 0.899]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+46,"[('vel y', '(-0.686, -0.571]'), ('pos y', '(1.051, 1.202]'), ('angleVel', '(0.161, 0.228]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+47,"[('contact_2', '(0.5, 1.0]'), ('vel x', '(-0.15, -0.0182]'), ('pos x', '(-0.00173, 0.0565]')]",No action,"No action    0.002137
+         ","No action    1.0
+         "
+48,"[('vel y', '(-0.571, -0.457]'), ('pos x', '(-0.176, -0.118]'), ('pos y', '(1.202, 1.353]')]",Fire down engine,"Fire down engine    0.003177
+         ","Fire down engine    1.0
+         "
+49,"[('contact_1', '(0.5, 1.0]'), ('vel y', '(-0.115, -0.000902]'), ('pos x', '(-0.06, -0.00173]')]",Fire down engine,"Fire down engine    0.001271
+         ","Fire down engine    1.0
+         "
+50,"[('contact_1', '(0.5, 1.0]'), ('vel x', '(-0.281, -0.15]')]",Fire right engine,"Fire right engine    0.002747
+         ","Fire right engine    1.0
+         "
+51,"[('contact_1', '(0.5, 1.0]'), ('angle', '(-0.0912, -0.00624]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+52,"[('contact_1', '(0.5, 1.0]'), ('vel y', '(-0.115, -0.000902]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+53,"[('contact_1', '(0.5, 1.0]'), ('angleVel', '(0.0286, 0.095]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+54,"[('vel x', '(0.376, 0.508]'), ('pos x', '(-0.176, -0.118]'), ('pos y', '(0.597, 0.748]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+55,"[('vel y', '(-0.686, -0.571]'), ('angle', '(-0.261, -0.176]'), ('vel x', '(0.245, 0.376]')]",Fire down engine,"Fire down engine    0.002541
+         ","Fire down engine    1.0
+         "
+56,"[('vel y', '(-0.686, -0.571]'), ('pos x', '(-0.293, -0.235]'), ('vel x', '(0.245, 0.376]'), ('angleVel', '(0.161, 0.228]')]",Fire down engine,"Fire down engine    0.001271
+         ","Fire down engine    1.0
+         "
+57,"[('vel x', '(0.376, 0.508]'), ('pos x', '(-0.176, -0.118]'), ('vel y', '(-0.457, -0.343]')]",Fire down engine,"Fire down engine    0.002541
+         ","Fire down engine    1.0
+         "
+58,"[('vel y', '(0.227, 0.341]'), ('vel x', '(-0.809, -0.676]')]",Fire right engine,"Fire right engine    0.008242
+No action            0.002747
+         ","Fire right engine    0.75
+No action            0.25
+         "
+59,"[('vel y', '(-0.686, -0.571]'), ('angleVel', '(0.095, 0.161]'), ('pos x', '(-0.293, -0.235]')]",Fire down engine,"Fire down engine    0.003177
+Fire left engine    0.001271
+         ","Fire down engine    0.714286
+Fire left engine    0.285714
+         "
+60,"[('contact_2', '(0.5, 1.0]'), ('angleVel', '(-0.104, -0.0378]')]",Fire left engine,"Fire left engine    0.007968
+         ","Fire left engine    1.0
+         "
+61,"[('contact_2', '(0.5, 1.0]'), ('pos x', '(-0.176, -0.118]'), ('vel y', '(-0.115, -0.000902]')]",No action,"No action    0.001068
+         ","No action    1.0
+         "
+62,"[('contact_1', '(0.5, 1.0]'), ('pos x', '(-0.176, -0.118]')]",No action,"No action            0.049145
+Fire right engine    0.020299
+         ","No action            0.707692
+Fire right engine    0.292308
+         "
+63,"[('angle', '(-0.602, -0.516]'), ('vel x', '(-0.281, -0.15]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+64,"[('angle', '(-0.602, -0.516]'), ('angleVel', '(-0.0378, 0.0286]')]",Fire left engine,"Fire left engine    0.011952
+         ","Fire left engine    1.0
+         "
+65,"[('vel y', '(-0.571, -0.457]'), ('pos x', '(-0.176, -0.118]'), ('pos y', '(1.051, 1.202]')]",Fire down engine,"Fire down engine    0.004447
+         ","Fire down engine    1.0
+         "
+66,"[('vel y', '(-0.571, -0.457]'), ('angleVel', '(-0.104, -0.0378]'), ('pos x', '(-0.06, -0.00173]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+67,"[('vel y', '(-0.571, -0.457]'), ('pos x', '(-0.06, -0.00173]')]",Fire right engine,"Fire right engine    0.010989
+         ","Fire right engine    1.0
+         "
+68,"[('angle', '(-0.602, -0.516]'), ('angleVel', '(-0.104, -0.0378]')]",Fire left engine,"Fire left engine    0.007968
+         ","Fire left engine    1.0
+         "
+69,"[('angle', '(-0.602, -0.516]'), ('vel y', '(-0.115, -0.000902]'), ('vel x', '(-0.0182, 0.113]')]",Fire left engine,"Fire left engine    0.023904
+         ","Fire left engine    1.0
+         "
+70,"[('angle', '(-0.516, -0.431]'), ('vel y', '(-0.457, -0.343]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+71,"[('angle', '(-0.516, -0.431]'), ('angleVel', '(0.294, 0.361]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+72,"[('angle', '(-0.516, -0.431]'), ('angleVel', '(-0.104, -0.0378]'), ('pos x', '(-0.293, -0.235]')]",Fire left engine,"Fire left engine    0.007968
+         ","Fire left engine    1.0
+         "
+73,"[('angle', '(-0.516, -0.431]'), ('angleVel', '(-0.104, -0.0378]'), ('pos x', '(-0.468, -0.409]')]",Fire left engine,"Fire left engine    0.011952
+         ","Fire left engine    1.0
+         "
+74,"[('vel x', '(0.376, 0.508]'), ('pos y', '(0.143, 0.295]'), ('angle', '(-0.00624, 0.0788]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+75,"[('vel x', '(0.376, 0.508]'), ('pos x', '(-0.176, -0.118]'), ('pos y', '(0.295, 0.446]')]",Fire right engine,"Fire right engine    0.002747
+         ","Fire right engine    1.0
+         "
+76,"[('vel x', '(0.376, 0.508]'), ('angleVel', '(0.161, 0.228]'), ('angle', '(-0.00624, 0.0788]')]",Fire right engine,"Fire right engine    0.002747
+         ","Fire right engine    1.0
+         "
+77,"[('vel x', '(0.376, 0.508]'), ('angleVel', '(0.161, 0.228]'), ('pos x', '(-0.235, -0.176]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+78,"[('vel x', '(0.376, 0.508]'), ('angleVel', '(0.161, 0.228]'), ('vel y', '(-0.571, -0.457]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+79,"[('vel y', '(-0.686, -0.571]'), ('vel x', '(0.113, 0.245]'), ('angleVel', '(-0.0378, 0.0286]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+80,"[('angle', '(-0.516, -0.431]'), ('pos x', '(-0.527, -0.468]'), ('vel x', '(-0.15, -0.0182]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+81,"[('angle', '(-0.516, -0.431]'), ('pos x', '(-0.527, -0.468]'), ('vel y', '(-0.000902, 0.113]')]",Fire left engine,"Fire left engine    0.007968
+         ","Fire left engine    1.0
+         "
+82,"[('angle', '(-0.516, -0.431]'), ('angleVel', '(-0.104, -0.0378]'), ('pos x', '(-0.409, -0.351]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+83,"[('angle', '(-0.516, -0.431]'), ('angleVel', '(0.0286, 0.095]'), ('pos x', '(-0.293, -0.235]')]",Fire down engine,"Fire down engine    0.001271
+         ","Fire down engine    1.0
+         "
+84,"[('vel x', '(0.376, 0.508]'), ('angleVel', '(0.095, 0.161]'), ('pos x', '(-0.176, -0.118]')]",Fire right engine,"Fire right engine    0.002747
+         ","Fire right engine    1.0
+         "
+85,"[('vel y', '(-0.686, -0.571]'), ('vel x', '(0.113, 0.245]'), ('pos x', '(-0.351, -0.293]'), ('angleVel', '(0.161, 0.228]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+86,"[('vel x', '(0.376, 0.508]'), ('pos x', '(-0.176, -0.118]')]",Fire down engine,"Fire down engine     0.001271
+Fire right engine    0.000635
+         ","Fire down engine     0.666667
+Fire right engine    0.333333
+         "
+87,"[('vel y', '(-0.686, -0.571]'), ('pos y', '(1.051, 1.202]')]",Fire down engine,"Fire down engine    0.001271
+Fire left engine    0.000635
+         ","Fire down engine    0.666667
+Fire left engine    0.333333
+         "
+88,"[('vel y', '(-0.686, -0.571]'), ('vel x', '(0.113, 0.245]'), ('pos x', '(-0.351, -0.293]')]",Fire down engine,"Fire down engine    0.001271
+Fire left engine    0.000635
+         ","Fire down engine    0.666667
+Fire left engine    0.333333
+         "
+89,"[('vel y', '(-0.686, -0.571]'), ('angleVel', '(0.0286, 0.095]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+90,"[('vel y', '(-0.686, -0.571]'), ('pos x', '(-0.351, -0.293]')]",Fire right engine,"Fire right engine    0.002747
+         ","Fire right engine    1.0
+         "
+91,"[('vel y', '(0.227, 0.341]')]",No action,"No action            0.001068
+Fire right engine    0.001068
+         ","No action            0.5
+Fire right engine    0.5
+         "
+92,"[('angle', '(-0.602, -0.516]'), ('angleVel', '(0.0286, 0.095]')]",Fire down engine,"Fire down engine    0.001271
+         ","Fire down engine    1.0
+         "
+93,"[('angle', '(-0.602, -0.516]'), ('vel y', '(-0.115, -0.000902]'), ('pos x', '(-0.351, -0.293]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+94,"[('angle', '(-0.602, -0.516]'), ('angleVel', '(-0.237, -0.171]')]",Fire left engine,"Fire left engine    0.007968
+         ","Fire left engine    1.0
+         "
+95,"[('angle', '(-0.602, -0.516]'), ('vel y', '(-0.115, -0.000902]'), ('pos y', '(1.051, 1.202]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+96,"[('angle', '(-0.602, -0.516]'), ('angleVel', '(0.095, 0.161]'), ('pos x', '(-0.351, -0.293]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+97,"[('angle', '(-0.602, -0.516]'), ('angleVel', '(0.095, 0.161]'), ('pos y', '(1.202, 1.353]')]",Fire down engine,"Fire down engine    0.001271
+         ","Fire down engine    1.0
+         "
+98,"[('angleVel', '(0.228, 0.294]'), ('pos y', '(0.597, 0.748]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+99,"[('angleVel', '(0.228, 0.294]'), ('vel x', '(-0.15, -0.0182]'), ('pos x', '(-0.351, -0.293]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+100,"[('angleVel', '(0.228, 0.294]'), ('pos y', '(1.202, 1.353]'), ('angle', '(-0.431, -0.346]')]",Fire right engine,"Fire right engine    0.002747
+         ","Fire right engine    1.0
+         "
+101,"[('angleVel', '(0.228, 0.294]'), ('vel x', '(-0.15, -0.0182]')]",Fire down engine,"Fire down engine    0.001271
+Fire left engine    0.000635
+         ","Fire down engine    0.666667
+Fire left engine    0.333333
+         "
+102,"[('angle', '(-0.516, -0.431]'), ('angleVel', '(0.228, 0.294]'), ('pos x', '(-0.409, -0.351]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+103,"[('vel y', '(0.113, 0.227]')]",No action,"No action            0.002137
+Fire right engine    0.002137
+         ","No action            0.5
+Fire right engine    0.5
+         "
+104,"[('angle', '(-0.602, -0.516]'), ('pos y', '(1.051, 1.202]'), ('vel y', '(-0.000902, 0.113]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+105,"[('angle', '(-0.602, -0.516]'), ('pos y', '(1.051, 1.202]'), ('angleVel', '(0.161, 0.228]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+106,"[('pos y', '(1.353, 1.504]'), ('vel y', '(-0.571, -0.457]')]",Fire down engine,"Fire down engine    0.001271
+         ","Fire down engine    1.0
+         "
+107,"[('pos y', '(1.353, 1.504]'), ('angle', '(-0.261, -0.176]')]",Fire down engine,"Fire down engine    0.001906
+         ","Fire down engine    1.0
+         "
+108,"[('pos y', '(1.353, 1.504]'), ('angleVel', '(0.0286, 0.095]')]",Fire right engine,"Fire right engine    0.013736
+         ","Fire right engine    1.0
+         "
+109,"[('pos y', '(1.353, 1.504]'), ('angleVel', '(0.161, 0.228]')]",Fire right engine,"Fire right engine    0.002747
+         ","Fire right engine    1.0
+         "
+110,"[('pos y', '(1.353, 1.504]'), ('angleVel', '(0.095, 0.161]')]",Fire right engine,"Fire right engine    0.019231
+         ","Fire right engine    1.0
+         "
+111,"[('pos y', '(1.353, 1.504]'), ('vel y', '(-0.000902, 0.113]'), ('pos x', '(-0.118, -0.06]')]",No action,"No action    0.017094
+         ","No action    1.0
+         "
+112,"[('pos y', '(1.353, 1.504]'), ('pos x', '(-0.06, -0.00173]'), ('vel y', '(-0.115, -0.000902]')]",Fire right engine,"Fire right engine    0.008242
+         ","Fire right engine    1.0
+         "
+113,"[('pos y', '(1.353, 1.504]'), ('vel y', '(-0.000902, 0.113]'), ('pos x', '(-0.176, -0.118]')]",No action,"No action    0.001068
+         ","No action    1.0
+         "
+114,"[('pos y', '(1.353, 1.504]'), ('pos x', '(-0.293, -0.235]'), ('angleVel', '(-0.171, -0.104]')]",Fire down engine,"Fire down engine    0.001271
+         ","Fire down engine    1.0
+         "
+115,"[('pos y', '(1.353, 1.504]'), ('pos x', '(-0.293, -0.235]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+116,"[('pos y', '(1.353, 1.504]'), ('pos x', '(-0.06, -0.00173]'), ('vel y', '(-0.343, -0.229]')]",Fire right engine,"Fire right engine    0.010989
+         ","Fire right engine    1.0
+         "
+117,"[('pos y', '(1.353, 1.504]'), ('pos x', '(-0.06, -0.00173]'), ('vel y', '(-0.229, -0.115]')]",Fire right engine,"Fire right engine    0.002747
+         ","Fire right engine    1.0
+         "
+118,"[('pos y', '(1.353, 1.504]'), ('vel y', '(-0.343, -0.229]'), ('angle', '(-0.00624, 0.0788]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+119,"[('pos y', '(1.353, 1.504]'), ('vel y', '(-0.343, -0.229]'), ('angleVel', '(-0.104, -0.0378]')]",Fire right engine,"Fire right engine    0.005495
+         ","Fire right engine    1.0
+         "
+120,"[('pos y', '(1.353, 1.504]'), ('vel y', '(-0.343, -0.229]'), ('angleVel', '(-0.237, -0.171]')]",Fire left engine,"Fire left engine    0.027888
+         ","Fire left engine    1.0
+         "
+121,"[('pos y', '(1.353, 1.504]'), ('vel y', '(-0.343, -0.229]'), ('angle', '(-0.176, -0.0912]')]",Fire right engine,"Fire right engine    0.008242
+         ","Fire right engine    1.0
+         "
+122,"[('pos y', '(1.353, 1.504]'), ('angle', '(-0.00624, 0.0788]'), ('vel y', '(-0.457, -0.343]')]",Fire right engine,"Fire right engine    0.002747
+         ","Fire right engine    1.0
+         "
+123,"[('pos y', '(1.353, 1.504]'), ('vel y', '(-0.115, -0.000902]'), ('angleVel', '(-0.0378, 0.0286]')]",Fire right engine,"Fire right engine    0.005495
+         ","Fire right engine    1.0
+         "
+124,"[('vel x', '(0.376, 0.508]'), ('pos x', '(-0.351, -0.293]'), ('vel y', '(-0.571, -0.457]')]",Fire down engine,"Fire down engine    0.001906
+         ","Fire down engine    1.0
+         "
+125,"[('vel x', '(0.376, 0.508]'), ('pos x', '(-0.351, -0.293]'), ('pos y', '(0.446, 0.597]')]",Fire right engine,"Fire right engine    0.005495
+         ","Fire right engine    1.0
+         "
+126,"[('vel x', '(0.376, 0.508]'), ('pos x', '(-0.351, -0.293]'), ('angleVel', '(0.095, 0.161]')]",Fire right engine,"Fire right engine    0.002747
+         ","Fire right engine    1.0
+         "
+127,"[('vel x', '(0.376, 0.508]'), ('vel y', '(-0.457, -0.343]'), ('pos y', '(0.295, 0.446]')]",Fire down engine,"Fire down engine    0.001906
+         ","Fire down engine    1.0
+         "
+128,"[('vel x', '(0.376, 0.508]'), ('angleVel', '(-0.0378, 0.0286]'), ('pos y', '(0.295, 0.446]')]",Fire left engine,"Fire left engine    0.007968
+         ","Fire left engine    1.0
+         "
+129,"[('vel x', '(0.376, 0.508]'), ('pos y', '(0.295, 0.446]')]",Fire down engine,"Fire down engine     0.002541
+Fire right engine    0.000635
+         ","Fire down engine     0.8
+Fire right engine    0.2
+         "
+130,"[('angle', '(-0.602, -0.516]'), ('pos y', '(1.051, 1.202]')]",Fire down engine,"Fire down engine    0.001271
+Fire left engine    0.000635
+         ","Fire down engine    0.666667
+Fire left engine    0.333333
+         "
+131,"[('pos y', '(1.353, 1.504]'), ('pos x', '(-0.06, -0.00173]')]",No action,"No action            0.004274
+Fire right engine    0.002137
+         ","No action            0.666667
+Fire right engine    0.333333
+         "
+132,"[('pos y', '(1.353, 1.504]'), ('vel y', '(-0.115, -0.000902]'), ('angle', '(-0.0912, -0.00624]'), ('pos x', '(-0.118, -0.06]')]",No action,"No action    0.003205
+         ","No action    1.0
+         "
+133,"[('vel x', '(0.376, 0.508]'), ('angleVel', '(0.095, 0.161]'), ('pos y', '(0.446, 0.597]')]",Fire right engine,"Fire right engine    0.005495
+         ","Fire right engine    1.0
+         "
+134,"[('vel x', '(0.376, 0.508]'), ('angleVel', '(0.095, 0.161]')]",Fire down engine,"Fire down engine    0.001271
+         ","Fire down engine    1.0
+         "
+135,"[('vel x', '(0.376, 0.508]'), ('pos x', '(-0.235, -0.176]'), ('pos y', '(0.597, 0.748]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+136,"[('vel x', '(0.376, 0.508]'), ('pos x', '(-0.235, -0.176]'), ('vel y', '(-0.571, -0.457]'), ('angle', '(-0.00624, 0.0788]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+137,"[('pos y', '(1.353, 1.504]'), ('vel y', '(-0.343, -0.229]'), ('pos x', '(-0.235, -0.176]')]",Fire right engine,"Fire right engine    0.005495
+Fire left engine     0.002747
+         ","Fire right engine    0.666667
+Fire left engine     0.333333
+         "
+138,"[('vel x', '(0.376, 0.508]'), ('pos x', '(-0.351, -0.293]')]",Fire down engine,"Fire down engine     0.000635
+Fire right engine    0.000635
+         ","Fire down engine     0.5
+Fire right engine    0.5
+         "
+139,"[('vel x', '(0.376, 0.508]'), ('pos x', '(-0.235, -0.176]')]",Fire down engine,"Fire down engine    0.001271
+Fire left engine    0.001271
+         ","Fire down engine    0.5
+Fire left engine    0.5
+         "
+140,"[('vel x', '(0.376, 0.508]'), ('vel y', '(-0.457, -0.343]')]",Fire down engine,"Fire down engine     0.003177
+Fire right engine    0.000635
+         ","Fire down engine     0.833333
+Fire right engine    0.166667
+         "
+141,"[('vel x', '(0.376, 0.508]')]",Fire down engine,"Fire down engine    0.000635
+Fire left engine    0.000635
+         ","Fire down engine    0.5
+Fire left engine    0.5
+         "
+142,"[('vel y', '(-0.686, -0.571]'), ('pos x', '(-0.293, -0.235]')]",Fire down engine,"Fire down engine    0.000635
+Fire left engine    0.000635
+         ","Fire down engine    0.5
+Fire left engine    0.5
+         "
+143,"[('vel y', '(-0.686, -0.571]')]",Fire down engine,"Fire down engine     0.000635
+Fire right engine    0.000635
+         ","Fire down engine     0.5
+Fire right engine    0.5
+         "
+144,"[('vel x', '(-0.809, -0.676]'), ('pos x', '(-0.293, -0.235]')]",Fire down engine,"Fire down engine    0.001271
+         ","Fire down engine    1.0
+         "
+145,"[('vel x', '(-0.809, -0.676]'), ('pos x', '(-0.351, -0.293]')]",Fire down engine,"Fire down engine    0.001271
+         ","Fire down engine    1.0
+         "
+146,"[('vel x', '(-0.809, -0.676]'), ('pos y', '(1.051, 1.202]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+147,"[('vel x', '(-0.809, -0.676]'), ('angle', '(-0.176, -0.0912]'), ('angleVel', '(-0.104, -0.0378]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+148,"[('vel x', '(-0.809, -0.676]'), ('angleVel', '(-0.104, -0.0378]'), ('pos x', '(-0.235, -0.176]')]",Fire right engine,"Fire right engine    0.005495
+         ","Fire right engine    1.0
+         "
+149,"[('vel x', '(-0.809, -0.676]'), ('angle', '(-0.176, -0.0912]'), ('angleVel', '(-0.237, -0.171]')]",Fire down engine,"Fire down engine    0.002541
+         ","Fire down engine    1.0
+         "
+150,"[('vel x', '(-0.809, -0.676]'), ('angleVel', '(-0.237, -0.171]'), ('pos x', '(-0.118, -0.06]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+151,"[('vel x', '(-0.809, -0.676]'), ('angleVel', '(-0.237, -0.171]'), ('pos x', '(-0.235, -0.176]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+152,"[('vel x', '(-0.809, -0.676]'), ('angleVel', '(-0.237, -0.171]'), ('pos y', '(1.202, 1.353]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+153,"[('vel x', '(-0.809, -0.676]'), ('angleVel', '(-0.237, -0.171]'), ('vel y', '(-0.457, -0.343]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+154,"[('vel x', '(-0.809, -0.676]'), ('angleVel', '(-0.104, -0.0378]'), ('pos y', '(1.202, 1.353]')]",Fire right engine,"Fire right engine    0.002747
+         ","Fire right engine    1.0
+         "
+155,"[('angle', '(-0.516, -0.431]'), ('pos x', '(-0.527, -0.468]'), ('angleVel', '(0.0286, 0.095]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+156,"[('angle', '(-0.516, -0.431]'), ('pos x', '(-0.527, -0.468]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+157,"[('angle', '(-0.516, -0.431]'), ('angleVel', '(0.0286, 0.095]'), ('pos x', '(-0.409, -0.351]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+158,"[('angle', '(-0.516, -0.431]'), ('angleVel', '(0.0286, 0.095]'), ('pos y', '(1.051, 1.202]')]",Fire left engine,"Fire left engine    0.007968
+         ","Fire left engine    1.0
+         "
+159,"[('angle', '(-0.516, -0.431]'), ('vel x', '(-0.281, -0.15]'), ('pos x', '(-0.351, -0.293]')]",No action,"No action    0.002137
+         ","No action    1.0
+         "
+160,"[('angle', '(-0.516, -0.431]'), ('angleVel', '(0.0286, 0.095]'), ('vel x', '(-0.0182, 0.113]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+161,"[('angle', '(-0.516, -0.431]'), ('angleVel', '(0.0286, 0.095]'), ('vel y', '(-0.115, -0.000902]')]",Fire left engine,"Fire left engine    0.007968
+         ","Fire left engine    1.0
+         "
+162,"[('angle', '(-0.516, -0.431]'), ('angleVel', '(0.0286, 0.095]'), ('pos x', '(-0.351, -0.293]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+163,"[('vel x', '(-0.809, -0.676]'), ('angle', '(-0.176, -0.0912]'), ('pos y', '(1.353, 1.504]')]",Fire right engine,"Fire right engine    0.008242
+Fire down engine     0.002747
+         ","Fire right engine    0.75
+Fire down engine     0.25
+         "
+164,"[('pos y', '(1.353, 1.504]'), ('angle', '(-0.176, -0.0912]'), ('pos x', '(-0.176, -0.118]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+165,"[('vel x', '(-0.809, -0.676]'), ('angleVel', '(-0.237, -0.171]')]",Fire left engine,"Fire left engine     0.007968
+Fire right engine    0.003984
+         ","Fire left engine     0.666667
+Fire right engine    0.333333
+         "
+166,"[('pos y', '(1.353, 1.504]'), ('angle', '(-0.176, -0.0912]')]",Fire down engine,"Fire down engine    0.002541
+Fire left engine    0.001271
+         ","Fire down engine    0.666667
+Fire left engine    0.333333
+         "
+167,"[('pos y', '(1.353, 1.504]'), ('pos x', '(-0.235, -0.176]'), ('vel x', '(-0.676, -0.544]')]",Fire right engine,"Fire right engine    0.002747
+         ","Fire right engine    1.0
+         "
+168,"[('pos y', '(1.353, 1.504]'), ('pos x', '(-0.235, -0.176]'), ('vel y', '(-0.229, -0.115]')]",Fire right engine,"Fire right engine    0.002747
+         ","Fire right engine    1.0
+         "
+169,"[('pos y', '(1.353, 1.504]'), ('pos x', '(-0.235, -0.176]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+170,"[('pos y', '(1.353, 1.504]'), ('vel y', '(-0.457, -0.343]'), ('vel x', '(-0.809, -0.676]')]",Fire right engine,"Fire right engine    0.002747
+         ","Fire right engine    1.0
+         "
+171,"[('pos y', '(1.353, 1.504]'), ('angle', '(-0.00624, 0.0788]'), ('angleVel', '(-0.237, -0.171]')]",Fire right engine,"Fire right engine    0.002747
+         ","Fire right engine    1.0
+         "
+172,"[('pos y', '(1.353, 1.504]'), ('angleVel', '(-0.237, -0.171]'), ('pos x', '(-0.118, -0.06]')]",Fire left engine,"Fire left engine    0.011952
+         ","Fire left engine    1.0
+         "
+173,"[('pos y', '(1.353, 1.504]'), ('angle', '(-0.00624, 0.0788]'), ('vel y', '(-0.229, -0.115]')]",No action,"No action    0.002137
+         ","No action    1.0
+         "
+174,"[('pos y', '(1.353, 1.504]'), ('angle', '(-0.00624, 0.0788]'), ('vel x', '(-0.676, -0.544]')]",Fire right engine,"Fire right engine    0.002747
+         ","Fire right engine    1.0
+         "
+175,"[('pos y', '(1.353, 1.504]'), ('vel y', '(-0.115, -0.000902]'), ('vel x', '(-0.676, -0.544]'), ('angleVel', '(-0.171, -0.104]')]",No action,"No action    0.002137
+         ","No action    1.0
+         "
+176,"[('vel x', '(-0.676, -0.544]'), ('pos x', '(-0.293, -0.235]')]",Fire down engine,"Fire down engine    0.02033
+         ","Fire down engine    1.0
+         "
+177,"[('vel x', '(-0.809, -0.676]'), ('vel y', '(-0.115, -0.000902]'), ('angleVel', '(-0.171, -0.104]'), ('pos x', '(-0.118, -0.06]')]",Fire right engine,"Fire right engine    0.002747
+         ","Fire right engine    1.0
+         "
+178,"[('pos y', '(1.353, 1.504]'), ('angle', '(-0.00624, 0.0788]'), ('angleVel', '(-0.171, -0.104]')]",No action,"No action    0.001068
+         ","No action    1.0
+         "
+179,"[('pos y', '(1.353, 1.504]'), ('angle', '(-0.00624, 0.0788]'), ('pos x', '(-0.176, -0.118]')]",Fire right engine,"Fire right engine    0.002747
+         ","Fire right engine    1.0
+         "
+180,"[('pos y', '(1.353, 1.504]'), ('vel y', '(-0.115, -0.000902]'), ('angleVel', '(-0.171, -0.104]')]",Fire right engine,"Fire right engine    0.005495
+No action            0.002747
+         ","Fire right engine    0.666667
+No action            0.333333
+         "
+181,"[('pos y', '(1.353, 1.504]'), ('angle', '(-0.00624, 0.0788]')]",No action,"No action            0.003205
+Fire right engine    0.002137
+         ","No action            0.6
+Fire right engine    0.4
+         "
+182,"[('vel x', '(-0.809, -0.676]'), ('angle', '(-0.00624, 0.0788]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+183,"[('pos y', '(1.353, 1.504]'), ('pos x', '(-0.118, -0.06]'), ('vel x', '(-0.676, -0.544]')]",Fire right engine,"Fire right engine    0.002747
+         ","Fire right engine    1.0
+         "
+184,"[('pos y', '(1.353, 1.504]'), ('pos x', '(-0.118, -0.06]'), ('vel y', '(-0.229, -0.115]')]",Fire right engine,"Fire right engine    0.002747
+         ","Fire right engine    1.0
+         "
+185,"[('vel x', '(-0.809, -0.676]'), ('pos x', '(-0.118, -0.06]'), ('pos y', '(1.202, 1.353]')]",Fire left engine,"Fire left engine    0.011952
+         ","Fire left engine    1.0
+         "
+186,"[('pos y', '(1.353, 1.504]'), ('pos x', '(-0.118, -0.06]')]",Fire left engine,"Fire left engine     0.003984
+Fire right engine    0.003984
+         ","Fire left engine     0.5
+Fire right engine    0.5
+         "
+187,"[('pos y', '(1.353, 1.504]'), ('vel y', '(-0.115, -0.000902]')]",No action,"No action            0.002137
+Fire right engine    0.002137
+         ","No action            0.5
+Fire right engine    0.5
+         "
+188,"[('vel x', '(-0.676, -0.544]'), ('pos x', '(-0.235, -0.176]')]",Fire down engine,"Fire down engine    0.013977
+         ","Fire down engine    1.0
+         "
+189,"[('pos y', '(1.353, 1.504]'), ('vel y', '(-0.343, -0.229]')]",Fire left engine,"Fire left engine     0.007968
+Fire right engine    0.007968
+         ","Fire left engine     0.5
+Fire right engine    0.5
+         "
+190,"[('pos y', '(1.353, 1.504]'), ('vel y', '(-0.457, -0.343]')]",Fire left engine,"Fire left engine     0.007968
+Fire right engine    0.007968
+         ","Fire left engine     0.5
+Fire right engine    0.5
+         "
+191,"[('pos y', '(1.353, 1.504]'), ('angleVel', '(-0.237, -0.171]')]",No action,"No action           0.001068
+Fire left engine    0.001068
+         ","No action           0.5
+Fire left engine    0.5
+         "
+192,"[('vel x', '(-0.676, -0.544]'), ('pos y', '(1.353, 1.504]')]",Fire right engine,"Fire right engine    0.008242
+         ","Fire right engine    1.0
+         "
+193,"[('vel x', '(-0.676, -0.544]'), ('pos y', '(1.051, 1.202]')]",Fire down engine,"Fire down engine    0.003812
+         ","Fire down engine    1.0
+         "
+194,"[('vel x', '(-0.676, -0.544]'), ('angle', '(-0.346, -0.261]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+195,"[('vel x', '(-0.676, -0.544]'), ('vel y', '(-0.343, -0.229]'), ('pos x', '(-0.409, -0.351]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+196,"[('vel x', '(-0.676, -0.544]'), ('vel y', '(-0.343, -0.229]'), ('angle', '(-0.261, -0.176]')]",Fire down engine,"Fire down engine    0.001271
+         ","Fire down engine    1.0
+         "
+197,"[('vel x', '(-0.676, -0.544]'), ('vel y', '(-0.343, -0.229]'), ('angleVel', '(-0.171, -0.104]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+198,"[('angle', '(-0.516, -0.431]'), ('angleVel', '(0.228, 0.294]')]",Fire right engine,"Fire right engine    0.002747
+Fire left engine     0.002747
+         ","Fire right engine    0.5
+Fire left engine     0.5
+         "
+199,"[('angle', '(-0.516, -0.431]'), ('vel y', '(-0.343, -0.229]')]",Fire down engine,"Fire down engine    0.001271
+Fire left engine    0.000635
+         ","Fire down engine    0.666667
+Fire left engine    0.333333
+         "
+200,"[('angle', '(-0.516, -0.431]'), ('angleVel', '(0.0286, 0.095]')]",Fire down engine,"Fire down engine    0.000635
+Fire left engine    0.000635
+         ","Fire down engine    0.5
+Fire left engine    0.5
+         "
+201,"[('angle', '(-0.516, -0.431]'), ('angleVel', '(-0.104, -0.0378]')]",Fire down engine,"Fire down engine    0.000635
+Fire left engine    0.000635
+         ","Fire down engine    0.5
+Fire left engine    0.5
+         "
+202,"[('vel x', '(-0.809, -0.676]'), ('pos x', '(-0.235, -0.176]')]",Fire down engine,"Fire down engine     0.000635
+Fire right engine    0.000635
+         ","Fire down engine     0.5
+Fire right engine    0.5
+         "
+203,"[('angleVel', '(0.228, 0.294]'), ('pos y', '(0.899, 1.051]'), ('pos x', '(-0.293, -0.235]')]",Fire right engine,"Fire right engine    0.002747
+         ","Fire right engine    1.0
+         "
+204,"[('angleVel', '(0.228, 0.294]'), ('pos y', '(0.899, 1.051]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+205,"[('vel x', '(-0.809, -0.676]'), ('pos y', '(1.202, 1.353]')]",Fire down engine,"Fire down engine     0.000635
+Fire right engine    0.000635
+         ","Fire down engine     0.5
+Fire right engine    0.5
+         "
+206,"[('angleVel', '(0.228, 0.294]'), ('pos y', '(1.202, 1.353]')]",Fire left engine,"Fire left engine     0.003984
+Fire right engine    0.003984
+         ","Fire left engine     0.5
+Fire right engine    0.5
+         "
+207,"[('angle', '(-0.602, -0.516]'), ('vel x', '(-0.0182, 0.113]'), ('pos x', '(-0.351, -0.293]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+208,"[('angle', '(-0.602, -0.516]'), ('vel x', '(-0.0182, 0.113]')]",No action,"No action    0.001068
+         ","No action    1.0
+         "
+209,"[('angleVel', '(0.228, 0.294]'), ('vel x', '(0.113, 0.245]'), ('pos x', '(-0.468, -0.409]')]",Fire right engine,"Fire right engine    0.008242
+         ","Fire right engine    1.0
+         "
+210,"[('angleVel', '(0.228, 0.294]'), ('pos x', '(-0.468, -0.409]'), ('vel y', '(-0.229, -0.115]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+211,"[('angleVel', '(0.228, 0.294]'), ('pos x', '(-0.468, -0.409]'), ('angle', '(-0.261, -0.176]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+212,"[('angleVel', '(0.228, 0.294]'), ('pos x', '(-0.468, -0.409]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+213,"[('angle', '(-0.516, -0.431]'), ('vel y', '(-0.115, -0.000902]'), ('angleVel', '(-0.237, -0.171]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+214,"[('angle', '(-0.516, -0.431]'), ('vel y', '(-0.115, -0.000902]'), ('pos x', '(-0.293, -0.235]'), ('vel x', '(-0.0182, 0.113]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+215,"[('angle', '(-0.516, -0.431]'), ('vel y', '(-0.115, -0.000902]'), ('pos x', '(-0.351, -0.293]'), ('vel x', '(-0.0182, 0.113]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+216,"[('angle', '(-0.516, -0.431]'), ('vel y', '(-0.115, -0.000902]'), ('pos x', '(-0.293, -0.235]'), ('angleVel', '(-0.171, -0.104]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+217,"[('angle', '(-0.516, -0.431]'), ('vel y', '(-0.115, -0.000902]'), ('pos x', '(-0.293, -0.235]')]",Fire left engine,"Fire left engine    0.007968
+         ","Fire left engine    1.0
+         "
+218,"[('angle', '(-0.516, -0.431]'), ('vel y', '(-0.115, -0.000902]'), ('pos x', '(-0.409, -0.351]'), ('vel x', '(-0.15, -0.0182]')]",Fire down engine,"Fire down engine    0.001271
+         ","Fire down engine    1.0
+         "
+219,"[('angle', '(-0.516, -0.431]'), ('vel y', '(-0.115, -0.000902]'), ('pos x', '(-0.409, -0.351]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+220,"[('angleVel', '(0.228, 0.294]'), ('vel x', '(0.113, 0.245]'), ('pos x', '(-0.409, -0.351]')]",Fire right engine,"Fire right engine    0.005495
+         ","Fire right engine    1.0
+         "
+221,"[('angleVel', '(0.228, 0.294]'), ('angle', '(-0.176, -0.0912]'), ('vel x', '(-0.0182, 0.113]')]",Fire down engine,"Fire down engine    0.001271
+         ","Fire down engine    1.0
+         "
+222,"[('angle', '(-0.602, -0.516]'), ('pos x', '(-0.409, -0.351]')]",Fire down engine,"Fire down engine    0.000635
+Fire left engine    0.000635
+         ","Fire down engine    0.5
+Fire left engine    0.5
+         "
+223,"[('angle', '(-0.516, -0.431]'), ('pos x', '(-0.293, -0.235]'), ('angleVel', '(0.095, 0.161]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+224,"[('angleVel', '(0.228, 0.294]'), ('pos x', '(-0.351, -0.293]'), ('angle', '(-0.261, -0.176]')]",Fire right engine,"Fire right engine    0.002747
+         ","Fire right engine    1.0
+         "
+225,"[('angleVel', '(0.228, 0.294]'), ('angle', '(-0.261, -0.176]')]",Fire down engine,"Fire down engine    0.001906
+No action           0.000635
+         ","Fire down engine    0.75
+No action           0.25
+         "
+226,"[('angle', '(-0.516, -0.431]'), ('angleVel', '(0.161, 0.228]'), ('pos x', '(-0.468, -0.409]')]",Fire left engine,"Fire left engine    0.007968
+         ","Fire left engine    1.0
+         "
+227,"[('angle', '(-0.516, -0.431]'), ('pos x', '(-0.293, -0.235]'), ('vel y', '(-0.229, -0.115]')]",Fire down engine,"Fire down engine    0.001271
+Fire left engine    0.000635
+         ","Fire down engine    0.666667
+Fire left engine    0.333333
+         "
+228,"[('angle', '(-0.516, -0.431]'), ('angleVel', '(0.161, 0.228]'), ('pos x', '(-0.351, -0.293]')]",Fire left engine,"Fire left engine    0.007968
+         ","Fire left engine    1.0
+         "
+229,"[('angle', '(-0.516, -0.431]'), ('vel y', '(-0.115, -0.000902]'), ('angleVel', '(-0.171, -0.104]'), ('pos y', '(1.051, 1.202]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+230,"[('angle', '(-0.516, -0.431]'), ('vel y', '(-0.115, -0.000902]'), ('pos y', '(1.202, 1.353]'), ('pos x', '(-0.468, -0.409]'), ('angleVel', '(-0.171, -0.104]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+231,"[('angleVel', '(0.228, 0.294]'), ('vel x', '(0.245, 0.376]')]",No action,"No action           0.001068
+Fire down engine    0.001068
+         ","No action           0.5
+Fire down engine    0.5
+         "
+232,"[('pos y', '(1.353, 1.504]')]",Fire right engine,"Fire right engine    0.010989
+No action            0.010989
+Fire left engine     0.002747
+         ","Fire right engine    0.444444
+No action            0.444444
+Fire left engine     0.111111
+         "
+233,"[('angleVel', '(0.294, 0.361]'), ('pos y', '(0.748, 0.899]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+234,"[('angleVel', '(0.294, 0.361]'), ('vel x', '(0.113, 0.245]')]",Fire right engine,"Fire right engine    0.005495
+         ","Fire right engine    1.0
+         "
+235,"[('angleVel', '(0.294, 0.361]'), ('vel y', '(-0.343, -0.229]')]",Fire right engine,"Fire right engine    0.002747
+         ","Fire right engine    1.0
+         "
+236,"[('angleVel', '(0.228, 0.294]'), ('pos x', '(-0.351, -0.293]'), ('vel y', '(-0.571, -0.457]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+237,"[('angleVel', '(0.228, 0.294]'), ('pos x', '(-0.351, -0.293]'), ('vel x', '(0.113, 0.245]')]",Fire right engine,"Fire right engine    0.002747
+         ","Fire right engine    1.0
+         "
+238,"[('angle', '(-0.516, -0.431]'), ('vel x', '(-0.15, -0.0182]'), ('pos x', '(-0.409, -0.351]')]",Fire left engine,"Fire left engine    0.011952
+         ","Fire left engine    1.0
+         "
+239,"[('angleVel', '(0.228, 0.294]'), ('pos x', '(-0.293, -0.235]'), ('vel y', '(-0.229, -0.115]')]",Fire right engine,"Fire right engine    0.005495
+         ","Fire right engine    1.0
+         "
+240,"[('angle', '(-0.602, -0.516]')]",No action,"No action           0.002137
+Fire down engine    0.001068
+Fire left engine    0.001068
+         ","No action           0.50
+Fire down engine    0.25
+Fire left engine    0.25
+         "
+241,"[('angleVel', '(0.228, 0.294]'), ('vel y', '(-0.457, -0.343]'), ('angle', '(-0.346, -0.261]')]",Fire down engine,"Fire down engine    0.000635
+         ","Fire down engine    1.0
+         "
+242,"[('angleVel', '(0.228, 0.294]'), ('pos x', '(-0.409, -0.351]'), ('angle', '(-0.431, -0.346]')]",Fire left engine,"Fire left engine    0.003984
+         ","Fire left engine    1.0
+         "
+243,"[('angleVel', '(0.228, 0.294]'), ('vel y', '(-0.343, -0.229]'), ('angle', '(-0.346, -0.261]')]",Fire right engine,"Fire right engine    0.005495
+         ","Fire right engine    1.0
+         "
+244,"[('angleVel', '(0.228, 0.294]'), ('vel y', '(-0.343, -0.229]')]",Fire down engine,"Fire down engine    0.001271
+Fire left engine    0.000635
+         ","Fire down engine    0.666667
+Fire left engine    0.333333
+         "
+245,"[('angleVel', '(0.228, 0.294]'), ('vel y', '(-0.457, -0.343]'), ('pos x', '(-0.293, -0.235]')]",Fire right engine,"Fire right engine    0.005495
+Fire left engine     0.002747
+         ","Fire right engine    0.666667
+Fire left engine     0.333333
+         "
+246,"[('angleVel', '(0.228, 0.294]'), ('pos x', '(-0.351, -0.293]')]",Fire right engine,"Fire right engine    0.005495
+Fire left engine     0.002747
+Fire down engine     0.002747
+         ","Fire right engine    0.50
+Fire left engine     0.25
+Fire down engine     0.25
+         "
+247,,Fire down engine,"Fire down engine     1.000000
+No action            0.594663
+Fire right engine    0.231258
+Fire left engine     0.159466
+         ","Fire down engine     0.50368
+No action            0.29952
+Fire right engine    0.11648
+Fire left engine     0.08032
+         "
