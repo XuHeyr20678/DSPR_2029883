@@ -1,0 +1,2 @@
+,rule,predicted class,covered examples,correct predictions,wrong predictions,rule accuracy
+0,"(None, 'Down', 1.0, 0.473731884057971)",Down,474,206,268,0.4345991561181435
