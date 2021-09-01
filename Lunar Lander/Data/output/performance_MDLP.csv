@@ -1,0 +1,731 @@
+,rule,predicted class,covered examples,correct predictions,wrong predictions,rule accuracy
+0,"([('pos x', '(0.0332, 0.0333]')], 'No action', No action    0.001075
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,1,1,0,1.0
+1,"([('pos x', '(-0.0312, -0.031]')], 'No action', No action    0.006452
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,1,1,0,1.0
+2,"([('vel x', '(-0.0001, 9.7e-05]'), ('pos x', '(0.0109, 0.0324]')], 'No action', No action    0.047312
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,12,12,0,1.0
+3,"([('vel x', '(-0.0001, 9.7e-05]'), ('pos x', '(-0.0069, 0.0095]')], 'Fire down engine', Fire down engine    0.000643
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,1,0,1,0.0
+4,"([('vel x', '(-0.0001, 9.7e-05]'), ('pos x', '(-0.0496, -0.0495]')], 'No action', No action    0.013978
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,6,6,0,1.0
+5,"([('vel x', '(-0.0001, 9.7e-05]'), ('pos x', '(0.0095, 0.0096]')], 'No action', No action    0.015054
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,7,7,0,1.0
+6,"([('vel x', '(-0.0001, 9.7e-05]'), ('pos x', '(0.0324, 0.0332]')], 'No action', No action    0.023656
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,17,16,1,0.9411764705882353
+7,"([('vel x', '(-0.0001, 9.7e-05]'), ('pos x', '(0.0108, 0.0109]')], 'No action', No action    0.013978
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,6,6,0,1.0
+8,"([('pos x', '(-0.1371, -0.1367]'), ('pos y', '(-7.9e-05, -2.5e-05]')], 'Fire right engine', Fire right engine    0.002618
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,1,0,1,0.0
+9,"([('pos x', '(-0.1371, -0.1367]')], 'No action', No action    0.02043
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,7,6,1,0.8571428571428571
+10,"([('vel x', '(-0.0001, 9.7e-05]'), ('pos y', '(-0.0011, -0.000506]')], 'No action', No action    0.025806
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,13,13,0,1.0
+11,"([('vel x', '(-0.0001, 9.7e-05]'), ('vel y', '(-1e-06, 0.0]')], 'No action', No action    0.008602
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,4,4,0,1.0
+12,"([('vel y', '(0.211, 0.455]'), ('pos x', '(-0.0884, -0.0496]')], 'No action', No action    0.002151
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,2,2,0,1.0
+13,"([('vel y', '(0.211, 0.455]'), ('pos x', '(-0.031, -0.0069]')], 'Fire right engine', Fire right engine    0.039267
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,4,4,0,1.0
+14,"([('vel y', '(0.211, 0.455]'), ('vel x', '(-0.652, -0.626]')], 'No action', No action    0.001075
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,0,0,0,-
+15,"([('vel y', '(0.211, 0.455]')], 'Fire right engine', Fire right engine    0.02356
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,0,0,0,-
+16,"([('vel x', '(-0.626, -0.482]'), ('pos x', '(-0.1448, -0.1371]')], 'Fire down engine', Fire down engine    0.000643
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,1,1,0,1.0
+17,"([('vel x', '(-0.626, -0.482]'), ('pos x', '(-0.526, -0.3794]')], 'Fire down engine', Fire down engine    0.001286
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,1,1,0,1.0
+18,"([('vel x', '(-0.626, -0.482]'), ('pos y', '(1.338, 1.378]')], 'Fire down engine', Fire down engine    0.001929
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,4,4,0,1.0
+19,"([('pos x', '(0.0108, 0.0109]'), ('pos y', '(-0.000504, -7.9e-05]')], 'No action', No action    0.006452
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,1,1,0,1.0
+20,"([('vel x', '(-0.626, -0.482]'), ('pos y', '(1.433, 1.504]')], 'Fire left engine', Fire left engine    0.003937
+Name: class, dtype: float64, Fire left engine    1.0
+Name: class, dtype: float64)",Fire left engine,3,3,0,1.0
+21,"([('vel x', '(-0.626, -0.482]'), ('pos y', '(1.378, 1.433]')], 'Fire down engine', Fire down engine    0.001929
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,3,3,0,1.0
+22,"([('vel x', '(-0.626, -0.482]'), ('angle', '(-0.0056, 0.0003]')], 'Fire right engine', Fire right engine    0.002618
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,0,0,0,-
+23,"([('vel x', '(-0.626, -0.482]'), ('pos x', '(-0.0884, -0.0496]')], 'Fire down engine', Fire down engine    0.001929
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,2,2,0,1.0
+24,"([('vel x', '(-0.626, -0.482]'), ('angleVel', '(-0.303, -0.167]')], 'Fire down engine', Fire down engine    0.022508
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,14,14,0,1.0
+25,"([('vel y', '(-1e-06, 0.0]'), ('pos x', '(0.0109, 0.0324]')], 'No action', No action    0.003226
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,3,3,0,1.0
+26,"([('vel y', '(-1e-06, 0.0]'), ('pos x', '(-0.0496, -0.0495]')], 'No action', No action    0.002151
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,0,0,0,-
+27,"([('vel y', '(-1e-06, 0.0]'), ('pos x', '(0.0095, 0.0096]')], 'No action', No action    0.001075
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,1,1,0,1.0
+28,"([('vel y', '(-1e-06, 0.0]'), ('pos x', '(0.0096, 0.0108]')], 'Fire right engine', Fire right engine    0.007853
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,2,1,1,0.5
+29,"([('vel y', '(-1e-06, 0.0]'), ('pos x', '(0.0324, 0.0332]')], 'No action', No action    0.004301
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,0,0,0,-
+30,"([('vel y', '(-1e-06, 0.0]'), ('pos x', '(-0.1448, -0.1371]')], 'No action', No action    0.002151
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,2,1,1,0.5
+31,"([('vel y', '(-1e-06, 0.0]'), ('pos y', '(-0.0011, -0.000506]')], 'No action', No action    0.004301
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,0,0,0,-
+32,"([('vel y', '(-1e-06, 0.0]'), ('vel x', '(9.7e-05, 0.0057]')], 'No action', No action    0.001075
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,1,0,1,0.0
+33,"([('vel y', '(0.0, 0.0004]'), ('pos x', '(-0.0496, -0.0495]')], 'No action', No action    0.002151
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,0,0,0,-
+34,"([('vel y', '(0.0771, 0.211]'), ('pos x', '(0.0109, 0.0324]')], 'Fire right engine', Fire right engine    0.002618
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,0,0,0,-
+35,"([('vel y', '(0.0771, 0.211]'), ('pos x', '(-0.1367, -0.0884]')], 'No action', No action    0.003226
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,0,0,0,-
+36,"([('vel y', '(0.0771, 0.211]'), ('pos x', '(-0.3794, -0.1448]')], 'No action', No action    0.004301
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,0,0,0,-
+37,"([('vel y', '(-1e-06, 0.0]'), ('vel x', '(0.0057, 0.178]')], 'No action', No action    0.005376
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,2,2,0,1.0
+38,"([('vel y', '(0.0, 0.0004]'), ('pos x', '(-0.1367, -0.0884]')], 'No action', No action    0.001075
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,0,0,0,-
+39,"([('vel y', '(0.0, 0.0004]'), ('pos x', '(0.0108, 0.0109]')], 'No action', No action    0.001075
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,0,0,0,-
+40,"([('vel y', '(0.0, 0.0004]'), ('pos y', '(0.0649, 0.173]')], 'Fire right engine', Fire right engine    0.002618
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,0,0,0,-
+41,"([('vel y', '(0.0, 0.0004]'), ('vel x', '(0.0057, 0.178]')], 'No action', No action    0.011828
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,7,7,0,1.0
+42,"([('vel y', '(0.0, 0.0004]'), ('angleVel', '(-0.0796, -0.0003]')], 'No action', No action    0.005376
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,4,3,1,0.75
+43,"([('pos y', '(-0.000506, -0.000504]'), ('vel x', '(0.0057, 0.178]')], 'No action', No action    0.002151
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,1,1,0,1.0
+44,"([('pos y', '(-0.000506, -0.000504]'), ('pos x', '(0.0108, 0.0109]')], 'Fire right engine', Fire right engine    0.005236
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,0,0,0,-
+45,"([('pos x', '(0.0108, 0.0109]')], 'No action', No action    0.002151
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,0,0,0,-
+46,"([('pos y', '(-0.000506, -0.000504]'), ('vel x', '(-0.0044, -0.0001]')], 'Fire right engine', Fire right engine    0.007853
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,1,1,0,1.0
+47,"([('pos y', '(-0.000506, -0.000504]'), ('vel x', '(-0.168, -0.0044]')], 'Fire right engine', Fire right engine    0.002618
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,0,0,0,-
+48,"([('pos y', '(-0.000506, -0.000504]'), ('vel y', '(-0.0004, -1e-06]')], 'Fire right engine', Fire right engine    0.010471
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,1,1,0,1.0
+49,"([('vel y', '(0.0771, 0.211]'), ('pos x', '(-0.0884, -0.0496]')], 'No action', No action    0.015054
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,6,6,0,1.0
+50,"([('vel x', '(-0.808, -0.72]'), ('pos x', '(-0.3794, -0.1448]')], 'Fire right engine', Fire right engine    0.010471
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,3,2,1,0.6666666666666666
+51,"([('vel x', '(-0.808, -0.72]'), ('pos x', '(-0.1448, -0.1371]')], 'No action', No action    0.001075
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,1,1,0,1.0
+52,"([('vel x', '(-0.808, -0.72]'), ('pos x', '(-0.031, -0.0069]')], 'Fire right engine', Fire right engine    0.034031
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,6,6,0,1.0
+53,"([('vel x', '(-0.808, -0.72]'), ('pos y', '(1.378, 1.433]')], 'Fire right engine', Fire right engine    0.013089
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,1,1,0,1.0
+54,"([('vel y', '(-1e-06, 0.0]'), ('vel x', '(-0.168, -0.0044]')], 'Fire right engine', Fire right engine    0.002618
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,0,0,0,-
+55,"([('angleVel', '(-9.2e-05, 4.5e-05]'), ('pos x', '(0.0109, 0.0324]')], 'No action', No action    0.005376
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,3,2,1,0.6666666666666666
+56,"([('angleVel', '(-9.2e-05, 4.5e-05]'), ('vel x', '(-0.0044, -0.0001]')], 'Fire right engine', Fire right engine    0.002618
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,0,0,0,-
+57,"([('pos y', '(-0.000506, -0.000504]'), ('angleVel', '(-0.0003, -9.2e-05]')], 'No action', No action    0.001075
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,0,0,0,-
+58,"([('vel y', '(0.0, 0.0004]'), ('angle', '(-0.0056, 0.0003]'), ('vel x', '(9.7e-05, 0.0057]')], 'No action', No action    0.010753
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,4,4,0,1.0
+59,"([('pos y', '(-7.9e-05, -2.5e-05]'), ('vel x', '(-0.0044, -0.0001]')], 'Fire right engine', Fire right engine    0.005236
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,1,1,0,1.0
+60,"([('vel x', '(-0.626, -0.482]'), ('vel y', '(-0.368, -0.183]'), ('angleVel', '(-0.167, -0.0796]')], 'Fire down engine', Fire down engine    0.009646
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,11,8,3,0.7272727272727273
+61,"([('vel x', '(-0.808, -0.72]'), ('vel y', '(-0.0059, -0.0004]')], 'Fire right engine', Fire right engine    0.002618
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,0,0,0,-
+62,"([('vel x', '(-0.808, -0.72]'), ('pos x', '(-0.1367, -0.0884]')], 'No action', No action    0.002151
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,2,1,1,0.5
+63,"([('vel y', '(0.0771, 0.211]'), ('pos x', '(-0.526, -0.3794]')], 'No action', No action    0.001075
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,0,0,0,-
+64,"([('vel y', '(0.0771, 0.211]'), ('pos x', '(-0.031, -0.0069]')], 'Fire right engine', Fire right engine    0.005236
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,0,0,0,-
+65,"([('vel x', '(-0.808, -0.72]'), ('angleVel', '(0.001, 0.0448]')], 'Fire right engine', Fire right engine    0.002618
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,0,0,0,-
+66,"([('vel x', '(-0.808, -0.72]'), ('pos x', '(-0.0495, -0.0312]')], 'No action', No action    0.001075
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,0,0,0,-
+67,"([('vel x', '(-0.0001, 9.7e-05]'), ('pos x', '(-0.0495, -0.0312]')], 'No action', No action            0.009677
+Fire right engine    0.001075
+Name: class, dtype: float64, No action            0.9
+Fire right engine    0.1
+Name: class, dtype: float64)",No action,1,1,0,1.0
+68,"([('pos y', '(-0.000506, -0.000504]')], 'Fire right engine', Fire right engine    0.013089
+No action            0.005236
+Name: class, dtype: float64, Fire right engine    0.714286
+No action            0.285714
+Name: class, dtype: float64)",Fire right engine,2,1,1,0.5
+69,"([('vel y', '(0.0771, 0.211]'), ('pos y', '(1.433, 1.504]')], 'No action', No action    0.001075
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,0,0,0,-
+70,"([('vel y', '(0.0771, 0.211]')], 'Fire right engine', Fire right engine    0.002618
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,0,0,0,-
+71,"([('vel y', '(0.0, 0.0004]'), ('vel x', '(9.7e-05, 0.0057]'), ('angleVel', '(-0.0003, -9.2e-05]')], 'No action', No action    0.002151
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,1,1,0,1.0
+72,"([('vel y', '(0.0, 0.0004]'), ('angleVel', '(-0.0003, -9.2e-05]')], 'Fire right engine', Fire right engine    0.002618
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,1,1,0,1.0
+73,"([('vel y', '(0.0, 0.0004]'), ('pos x', '(0.0109, 0.0324]')], 'No action', No action    0.002151
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,2,2,0,1.0
+74,"([('vel y', '(0.0, 0.0004]'), ('angle', '(-0.0056, 0.0003]'), ('pos y', '(-0.0011, -0.000506]')], 'No action', No action    0.001075
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,1,0,1,0.0
+75,"([('vel y', '(0.0, 0.0004]'), ('angleVel', '(-9.2e-05, 4.5e-05]'), ('pos x', '(-0.0495, -0.0312]')], 'Fire right engine', Fire right engine    0.007853
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,1,1,0,1.0
+76,"([('angleVel', '(-9.2e-05, 4.5e-05]'), ('vel x', '(-0.168, -0.0044]')], 'No action', No action    0.002151
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,4,0,4,0.0
+77,"([('angleVel', '(-9.2e-05, 4.5e-05]'), ('pos x', '(0.0324, 0.0332]'), ('vel x', '(0.0057, 0.178]')], 'No action', No action    0.001075
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,0,0,0,-
+78,"([('angleVel', '(-9.2e-05, 4.5e-05]'), ('pos x', '(0.0324, 0.0332]'), ('vel y', '(-0.0004, -1e-06]')], 'No action', No action    0.001075
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,3,3,0,1.0
+79,"([('angleVel', '(-9.2e-05, 4.5e-05]'), ('vel x', '(9.7e-05, 0.0057]'), ('vel y', '(-0.0004, -1e-06]')], 'No action', No action    0.001075
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,1,1,0,1.0
+80,"([('vel y', '(0.0, 0.0004]'), ('vel x', '(9.7e-05, 0.0057]'), ('pos y', '(-0.0077, -0.0011]')], 'No action', No action            0.006452
+Fire right engine    0.001075
+Name: class, dtype: float64, No action            0.857143
+Fire right engine    0.142857
+Name: class, dtype: float64)",No action,3,3,0,1.0
+81,"([('vel y', '(0.0, 0.0004]'), ('vel x', '(9.7e-05, 0.0057]'), ('pos x', '(0.0324, 0.0332]')], 'No action', No action            0.006452
+Fire right engine    0.002151
+Name: class, dtype: float64, No action            0.75
+Fire right engine    0.25
+Name: class, dtype: float64)",No action,2,1,1,0.5
+82,"([('vel y', '(0.0, 0.0004]'), ('pos x', '(0.0324, 0.0332]'), ('pos y', '(-0.0077, -0.0011]')], 'Fire right engine', Fire right engine    0.005236
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,3,3,0,1.0
+83,"([('vel y', '(0.0, 0.0004]'), ('pos x', '(-0.0495, -0.0312]')], 'No action', No action            0.002151
+Fire right engine    0.001075
+Name: class, dtype: float64, No action            0.666667
+Fire right engine    0.333333
+Name: class, dtype: float64)",No action,0,0,0,-
+84,"([('vel y', '(0.0, 0.0004]'), ('vel x', '(9.7e-05, 0.0057]')], 'No action', No action            0.002151
+Fire right engine    0.001075
+Name: class, dtype: float64, No action            0.666667
+Fire right engine    0.333333
+Name: class, dtype: float64)",No action,0,0,0,-
+85,"([('pos y', '(-7.9e-05, -2.5e-05]'), ('vel x', '(9.7e-05, 0.0057]')], 'Fire right engine', Fire right engine    0.002618
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,3,0,3,0.0
+86,"([('pos y', '(-7.9e-05, -2.5e-05]'), ('vel x', '(0.0057, 0.178]')], 'No action', No action            0.020430
+Fire right engine    0.012903
+Name: class, dtype: float64, No action            0.612903
+Fire right engine    0.387097
+Name: class, dtype: float64)",No action,13,7,6,0.5384615384615384
+87,"([('vel y', '(0.0, 0.0004]'), ('pos x', '(0.0324, 0.0332]')], 'Fire right engine', Fire right engine    0.007853
+No action            0.005236
+Name: class, dtype: float64, Fire right engine    0.6
+No action            0.4
+Name: class, dtype: float64)",Fire right engine,1,0,1,0.0
+88,"([('pos y', '(-7.9e-05, -2.5e-05]')], 'No action', No action            0.001075
+Fire right engine    0.001075
+Name: class, dtype: float64, No action            0.5
+Fire right engine    0.5
+Name: class, dtype: float64)",No action,2,1,1,0.5
+89,"([('angleVel', '(-9.2e-05, 4.5e-05]'), ('pos y', '(-0.0011, -0.000506]')], 'No action', No action    0.001075
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,0,0,0,-
+90,"([('angleVel', '(-9.2e-05, 4.5e-05]')], 'Fire left engine', Fire left engine    0.003937
+Name: class, dtype: float64, Fire left engine    1.0
+Name: class, dtype: float64)",Fire left engine,2,2,0,1.0
+91,"([('vel y', '(-0.0004, -1e-06]'), ('pos x', '(0.0333, 0.0566]')], 'No action', No action    0.001075
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,0,0,0,-
+92,"([('vel y', '(-0.0004, -1e-06]'), ('pos x', '(0.0096, 0.0108]')], 'No action', No action    0.001075
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,1,0,1,0.0
+93,"([('vel y', '(-0.0004, -1e-06]'), ('vel x', '(-0.482, -0.168]')], 'Fire right engine', Fire right engine    0.002618
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,0,0,0,-
+94,"([('vel y', '(-0.0004, -1e-06]'), ('vel x', '(9.7e-05, 0.0057]')], 'No action', No action    0.001075
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,2,2,0,1.0
+95,"([('vel y', '(-0.0004, -1e-06]'), ('vel x', '(-0.168, -0.0044]')], 'Fire right engine', Fire right engine    0.010471
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,0,0,0,-
+96,"([('vel y', '(-0.0004, -1e-06]'), ('pos x', '(0.0109, 0.0324]')], 'No action', No action    0.003226
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,0,0,0,-
+97,"([('pos y', '(-0.0077, -0.0011]'), ('pos x', '(0.0109, 0.0324]')], 'Fire down engine', Fire down engine    0.000643
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,0,0,0,-
+98,"([('pos y', '(-0.0077, -0.0011]'), ('pos x', '(-0.0884, -0.0496]')], 'Fire down engine', Fire down engine    0.000643
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,1,0,1,0.0
+99,"([('pos y', '(-0.0077, -0.0011]'), ('vel y', '(-0.183, -0.0059]')], 'Fire down engine', Fire down engine    0.000643
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,6,1,5,0.16666666666666666
+100,"([('pos y', '(-0.0077, -0.0011]'), ('pos x', '(0.0324, 0.0332]')], 'Fire right engine', Fire right engine    0.007853
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,2,2,0,1.0
+101,"([('pos y', '(-0.0077, -0.0011]'), ('angle', '(0.0003, 0.0038]')], 'Fire right engine', Fire right engine    0.002618
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,0,0,0,-
+102,"([('pos y', '(-0.0077, -0.0011]'), ('angle', '(0.0273, 0.249]')], 'Fire right engine', Fire right engine    0.010471
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,0,0,0,-
+103,"([('pos y', '(1.433, 1.504]'), ('pos x', '(-0.1448, -0.1371]')], 'No action', No action    0.002151
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,2,1,1,0.5
+104,"([('pos y', '(1.433, 1.504]'), ('angle', '(-0.0056, 0.0003]')], 'No action', No action    0.003226
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,1,1,0,1.0
+105,"([('pos y', '(1.433, 1.504]'), ('angle', '(0.0038, 0.0078]')], 'No action', No action    0.001075
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,0,0,0,-
+106,"([('pos y', '(1.433, 1.504]'), ('angle', '(-0.416, -0.114]')], 'Fire right engine', Fire right engine    0.002618
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,1,1,0,1.0
+107,"([('pos y', '(1.433, 1.504]'), ('angleVel', '(-0.303, -0.167]')], 'Fire left engine', Fire left engine    0.011811
+Name: class, dtype: float64, Fire left engine    1.0
+Name: class, dtype: float64)",Fire left engine,3,3,0,1.0
+108,"([('pos y', '(1.433, 1.504]'), ('vel y', '(-0.368, -0.183]'), ('vel x', '(-0.652, -0.626]')], 'Fire right engine', Fire right engine    0.007853
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,0,0,0,-
+109,"([('pos y', '(1.433, 1.504]'), ('vel x', '(-0.652, -0.626]'), ('pos x', '(-0.3794, -0.1448]')], 'No action', No action    0.002151
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,1,0,1,0.0
+110,"([('pos y', '(1.433, 1.504]'), ('vel y', '(0.0004, 0.0771]'), ('vel x', '(-0.652, -0.626]')], 'No action', No action    0.001075
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,2,2,0,1.0
+111,"([('pos y', '(-0.0077, -0.0011]'), ('angleVel', '(-0.0796, -0.0003]'), ('vel x', '(-0.0044, -0.0001]')], 'No action', No action    0.001075
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,0,0,0,-
+112,"([('vel y', '(-0.0004, -1e-06]'), ('pos x', '(0.0324, 0.0332]')], 'Fire right engine', Fire right engine    0.015707
+No action            0.005236
+Name: class, dtype: float64, Fire right engine    0.75
+No action            0.25
+Name: class, dtype: float64)",Fire right engine,3,2,1,0.6666666666666666
+113,"([('pos x', '(0.0324, 0.0332]'), ('pos y', '(-0.0011, -0.000506]')], 'No action', No action    0.001075
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,1,0,1,0.0
+114,"([('pos x', '(0.0324, 0.0332]'), ('vel x', '(-0.168, -0.0044]')], 'Fire down engine', Fire down engine    0.000643
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,0,0,0,-
+115,"([('pos x', '(0.0324, 0.0332]'), ('pos y', '(-2.5e-05, 0.0649]')], 'No action', No action    0.001075
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,0,0,0,-
+116,"([('pos x', '(0.0324, 0.0332]'), ('vel y', '(-0.183, -0.0059]')], 'No action', No action    0.001075
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,0,0,0,-
+117,"([('pos x', '(0.0324, 0.0332]')], 'Fire down engine', Fire down engine    0.000643
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,0,0,0,-
+118,"([('pos y', '(1.433, 1.504]'), ('pos x', '(-0.0884, -0.0496]'), ('vel y', '(-0.183, -0.0059]')], 'Fire right engine', Fire right engine    0.002618
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,1,0,1,0.0
+119,"([('pos y', '(1.433, 1.504]'), ('pos x', '(-0.0884, -0.0496]'), ('vel x', '(-0.72, -0.652]')], 'No action', No action    0.002151
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,2,2,0,1.0
+120,"([('pos y', '(1.433, 1.504]'), ('vel y', '(-0.368, -0.183]')], 'Fire right engine', Fire right engine    0.007853
+Fire left engine     0.002618
+Name: class, dtype: float64, Fire right engine    0.75
+Fire left engine     0.25
+Name: class, dtype: float64)",Fire right engine,1,1,0,1.0
+121,"([('pos y', '(1.433, 1.504]'), ('pos x', '(-0.3794, -0.1448]')], 'No action', No action    0.001075
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,0,0,0,-
+122,"([('vel y', '(-0.0004, -1e-06]'), ('pos y', '(-0.0011, -0.000506]')], 'No action', No action            0.002151
+Fire right engine    0.001075
+Name: class, dtype: float64, No action            0.666667
+Fire right engine    0.333333
+Name: class, dtype: float64)",No action,1,1,0,1.0
+123,"([('pos y', '(1.433, 1.504]'), ('angleVel', '(-0.0796, -0.0003]'), ('vel x', '(-0.72, -0.652]'), ('vel y', '(-0.183, -0.0059]'), ('angle', '(-0.114, -0.0056]')], 'No action', No action            0.003226
+Fire right engine    0.001075
+Name: class, dtype: float64, No action            0.75
+Fire right engine    0.25
+Name: class, dtype: float64)",No action,0,0,0,-
+124,"([('vel y', '(-0.0004, -1e-06]')], 'Fire right engine', Fire right engine    0.010471
+No action            0.007853
+Name: class, dtype: float64, Fire right engine    0.571429
+No action            0.428571
+Name: class, dtype: float64)",Fire right engine,2,1,1,0.5
+125,"([('pos y', '(1.338, 1.378]'), ('pos x', '(-0.0495, -0.0312]')], 'Fire right engine', Fire right engine    0.005236
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,1,1,0,1.0
+126,"([('pos y', '(1.338, 1.378]'), ('pos x', '(-0.031, -0.0069]')], 'Fire right engine', Fire right engine    0.002618
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,1,1,0,1.0
+127,"([('pos y', '(1.338, 1.378]'), ('vel x', '(-0.482, -0.168]')], 'Fire down engine', Fire down engine    0.002572
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,0,0,0,-
+128,"([('pos y', '(1.338, 1.378]'), ('angle', '(-0.0056, 0.0003]')], 'Fire right engine', Fire right engine    0.002618
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,1,0,1,0.0
+129,"([('pos y', '(1.338, 1.378]'), ('angle', '(0.0003, 0.0038]')], 'Fire right engine', Fire right engine    0.002618
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,0,0,0,-
+130,"([('pos y', '(1.338, 1.378]'), ('angle', '(-0.416, -0.114]'), ('vel x', '(-0.652, -0.626]')], 'Fire down engine', Fire down engine    0.001929
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,0,0,0,-
+131,"([('pos y', '(1.338, 1.378]'), ('angle', '(-0.416, -0.114]'), ('vel y', '(-0.684, -0.368]')], 'Fire down engine', Fire down engine    0.003215
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,0,0,0,-
+132,"([('pos y', '(1.378, 1.433]'), ('pos x', '(-0.0495, -0.0312]')], 'Fire right engine', Fire right engine    0.010471
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,1,1,0,1.0
+133,"([('pos y', '(1.338, 1.378]'), ('pos x', '(-0.0884, -0.0496]'), ('vel x', '(-0.652, -0.626]')], 'Fire right engine', Fire right engine    0.002618
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,0,0,0,-
+134,"([('pos y', '(1.338, 1.378]'), ('vel x', '(-0.652, -0.626]')], 'Fire left engine', Fire left engine    0.007874
+Name: class, dtype: float64, Fire left engine    1.0
+Name: class, dtype: float64)",Fire left engine,0,0,0,-
+135,"([('vel x', '(-0.652, -0.626]'), ('pos x', '(-0.0495, -0.0312]')], 'Fire down engine', Fire down engine    0.000643
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,0,0,0,-
+136,"([('vel x', '(-0.652, -0.626]'), ('pos x', '(-0.3794, -0.1448]')], 'Fire down engine', Fire down engine    0.009003
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,6,5,1,0.8333333333333334
+137,"([('pos y', '(1.338, 1.378]'), ('pos x', '(-0.1448, -0.1371]')], 'Fire right engine', Fire right engine    0.002618
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,0,0,0,-
+138,"([('pos y', '(1.338, 1.378]'), ('angleVel', '(-0.303, -0.167]'), ('pos x', '(-0.1367, -0.0884]')], 'Fire left engine', Fire left engine    0.003937
+Name: class, dtype: float64, Fire left engine    1.0
+Name: class, dtype: float64)",Fire left engine,0,0,0,-
+139,"([('pos y', '(1.338, 1.378]'), ('pos x', '(-0.1367, -0.0884]')], 'Fire right engine', Fire right engine    0.002618
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,0,0,0,-
+140,"([('pos y', '(1.338, 1.378]'), ('angleVel', '(-0.303, -0.167]'), ('vel y', '(-0.684, -0.368]')], 'Fire down engine', Fire down engine    0.000643
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,2,1,1,0.5
+141,"([('pos y', '(1.338, 1.378]'), ('pos x', '(-0.0884, -0.0496]')], 'Fire right engine', Fire right engine    0.007853
+Fire left engine     0.002618
+Name: class, dtype: float64, Fire right engine    0.75
+Fire left engine     0.25
+Name: class, dtype: float64)",Fire right engine,2,1,1,0.5
+142,"([('pos y', '(1.338, 1.378]'), ('vel y', '(-0.368, -0.183]')], 'Fire down engine', Fire down engine    0.001929
+Fire left engine    0.000643
+Name: class, dtype: float64, Fire down engine    0.75
+Fire left engine    0.25
+Name: class, dtype: float64)",Fire down engine,0,0,0,-
+143,"([('pos y', '(1.338, 1.378]')], 'Fire right engine', Fire right engine    0.007853
+Fire down engine     0.005236
+Name: class, dtype: float64, Fire right engine    0.6
+Fire down engine     0.4
+Name: class, dtype: float64)",Fire right engine,3,0,3,0.0
+144,"([('pos y', '(1.378, 1.433]'), ('pos x', '(-0.0069, 0.0095]')], 'Fire right engine', Fire right engine    0.002618
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,0,0,0,-
+145,"([('pos y', '(1.378, 1.433]'), ('pos x', '(-0.031, -0.0069]')], 'Fire right engine', Fire right engine    0.002618
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,2,2,0,1.0
+146,"([('pos y', '(1.378, 1.433]'), ('vel x', '(-0.652, -0.626]')], 'Fire left engine', Fire left engine    0.003937
+Name: class, dtype: float64, Fire left engine    1.0
+Name: class, dtype: float64)",Fire left engine,0,0,0,-
+147,"([('pos y', '(1.378, 1.433]'), ('angle', '(0.0078, 0.0273]')], 'Fire right engine', Fire right engine    0.015707
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,0,0,0,-
+148,"([('angle', '(-0.601, -0.416]'), ('vel x', '(-0.482, -0.168]')], 'Fire down engine', Fire down engine    0.004502
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,4,4,0,1.0
+149,"([('angle', '(-0.601, -0.416]'), ('vel y', '(-0.684, -0.368]')], 'Fire left engine', Fire left engine    0.003937
+Name: class, dtype: float64, Fire left engine    1.0
+Name: class, dtype: float64)",Fire left engine,0,0,0,-
+150,"([('angle', '(-0.601, -0.416]'), ('vel y', '(-0.0059, -0.0004]')], 'Fire left engine', Fire left engine    0.015748
+Name: class, dtype: float64, Fire left engine    1.0
+Name: class, dtype: float64)",Fire left engine,1,0,1,0.0
+151,"([('angle', '(-0.601, -0.416]'), ('angleVel', '(4.5e-05, 0.001]')], 'Fire left engine', Fire left engine    0.003937
+Name: class, dtype: float64, Fire left engine    1.0
+Name: class, dtype: float64)",Fire left engine,0,0,0,-
+152,"([('angle', '(-0.601, -0.416]'), ('vel x', '(-0.0044, -0.0001]'), ('pos x', '(-0.3794, -0.1448]')], 'Fire left engine', Fire left engine    0.015748
+Name: class, dtype: float64, Fire left engine    1.0
+Name: class, dtype: float64)",Fire left engine,1,1,0,1.0
+153,"([('angle', '(-0.601, -0.416]'), ('vel x', '(-0.0044, -0.0001]')], 'Fire down engine', Fire down engine    0.000643
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,0,0,0,-
+154,"([('angle', '(-0.601, -0.416]'), ('angleVel', '(-0.0796, -0.0003]'), ('vel x', '(9.7e-05, 0.0057]')], 'Fire left engine', Fire left engine    0.003937
+Name: class, dtype: float64, Fire left engine    1.0
+Name: class, dtype: float64)",Fire left engine,1,1,0,1.0
+155,"([('angle', '(-0.601, -0.416]'), ('angleVel', '(-0.0796, -0.0003]'), ('vel x', '(0.0057, 0.178]')], 'Fire left engine', Fire left engine    0.007874
+Name: class, dtype: float64, Fire left engine    1.0
+Name: class, dtype: float64)",Fire left engine,1,1,0,1.0
+156,"([('angle', '(-0.601, -0.416]'), ('angleVel', '(-0.0796, -0.0003]'), ('pos x', '(-0.3794, -0.1448]')], 'Fire left engine', Fire left engine    0.027559
+Fire down engine    0.011811
+Name: class, dtype: float64, Fire left engine    0.7
+Fire down engine    0.3
+Name: class, dtype: float64)",Fire left engine,2,1,1,0.5
+157,"([('pos y', '(1.378, 1.433]'), ('angleVel', '(-0.0796, -0.0003]')], 'Fire right engine', Fire right engine    0.002618
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,0,0,0,-
+158,"([('pos y', '(1.378, 1.433]'), ('pos x', '(-0.0884, -0.0496]'), ('angle', '(-0.0056, 0.0003]')], 'Fire right engine', Fire right engine    0.002618
+Name: class, dtype: float64, Fire right engine    1.0
+Name: class, dtype: float64)",Fire right engine,1,1,0,1.0
+159,"([('angle', '(-0.601, -0.416]'), ('angleVel', '(-0.0796, -0.0003]'), ('pos y', '(0.466, 1.099]')], 'Fire left engine', Fire left engine    0.007874
+Fire down engine    0.003937
+Name: class, dtype: float64, Fire left engine    0.666667
+Fire down engine    0.333333
+Name: class, dtype: float64)",Fire left engine,0,0,0,-
+160,"([('pos y', '(1.378, 1.433]'), ('angle', '(-0.0056, 0.0003]')], 'No action', No action    0.001075
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,0,0,0,-
+161,"([('pos y', '(1.378, 1.433]'), ('angle', '(-0.416, -0.114]'), ('vel y', '(-0.684, -0.368]')], 'Fire down engine', Fire down engine    0.001286
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,1,0,1,0.0
+162,"([('pos y', '(1.378, 1.433]'), ('angle', '(-0.416, -0.114]')], 'Fire left engine', Fire left engine    0.003937
+Name: class, dtype: float64, Fire left engine    1.0
+Name: class, dtype: float64)",Fire left engine,0,0,0,-
+163,"([('pos y', '(1.378, 1.433]'), ('angleVel', '(-0.303, -0.167]'), ('pos x', '(-0.1367, -0.0884]')], 'Fire left engine', Fire left engine    0.019685
+Name: class, dtype: float64, Fire left engine    1.0
+Name: class, dtype: float64)",Fire left engine,0,0,0,-
+164,"([('pos y', '(1.378, 1.433]'), ('angleVel', '(-0.303, -0.167]'), ('vel y', '(-0.368, -0.183]')], 'Fire left engine', Fire left engine    0.011811
+Name: class, dtype: float64, Fire left engine    1.0
+Name: class, dtype: float64)",Fire left engine,2,2,0,1.0
+165,"([('pos y', '(1.378, 1.433]'), ('vel y', '(-0.684, -0.368]'), ('angleVel', '(-0.167, -0.0796]')], 'Fire right engine', Fire right engine    0.005236
+Fire left engine     0.002618
+Name: class, dtype: float64, Fire right engine    0.666667
+Fire left engine     0.333333
+Name: class, dtype: float64)",Fire right engine,1,0,1,0.0
+166,"([('pos y', '(1.378, 1.433]'), ('pos x', '(-0.3794, -0.1448]'), ('vel y', '(-0.368, -0.183]')], 'Fire right engine', Fire right engine    0.013089
+Fire left engine     0.007853
+Name: class, dtype: float64, Fire right engine    0.625
+Fire left engine     0.375
+Name: class, dtype: float64)",Fire right engine,2,1,1,0.5
+167,"([('pos y', '(1.433, 1.504]'), ('angleVel', '(-0.167, -0.0796]')], 'Fire right engine', Fire right engine    0.010471
+No action            0.007853
+Name: class, dtype: float64, Fire right engine    0.571429
+No action            0.428571
+Name: class, dtype: float64)",Fire right engine,1,0,1,0.0
+168,"([('pos y', '(1.433, 1.504]')], 'No action', No action            0.004301
+Fire right engine    0.004301
+Name: class, dtype: float64, No action            0.5
+Fire right engine    0.5
+Name: class, dtype: float64)",No action,1,1,0,1.0
+169,"([('vel x', '(-0.652, -0.626]')], 'Fire down engine', Fire down engine     0.001929
+Fire right engine    0.000643
+Name: class, dtype: float64, Fire down engine     0.75
+Fire right engine    0.25
+Name: class, dtype: float64)",Fire down engine,1,0,1,0.0
+170,"([('pos y', '(-0.0077, -0.0011]')], 'No action', No action            0.003226
+Fire right engine    0.003226
+Name: class, dtype: float64, No action            0.5
+Fire right engine    0.5
+Name: class, dtype: float64)",No action,1,0,1,0.0
+171,"([('pos y', '(1.378, 1.433]'), ('pos x', '(-0.1367, -0.0884]')], 'No action', No action            0.001075
+Fire right engine    0.001075
+Name: class, dtype: float64, No action            0.5
+Fire right engine    0.5
+Name: class, dtype: float64)",No action,7,1,6,0.14285714285714285
+172,"([('vel x', '(-0.72, -0.652]'), ('pos x', '(-0.1448, -0.1371]')], 'Fire down engine', Fire down engine    0.001286
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,1,0,1,0.0
+173,"([('vel x', '(-0.72, -0.652]'), ('pos y', '(0.466, 1.099]')], 'Fire down engine', Fire down engine    0.001286
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,0,0,0,-
+174,"([('vel x', '(-0.72, -0.652]'), ('angle', '(-0.416, -0.114]')], 'Fire down engine', Fire down engine    0.009646
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,7,7,0,1.0
+175,"([('vel x', '(-0.72, -0.652]'), ('angle', '(0.0003, 0.0038]')], 'Fire down engine', Fire down engine    0.000643
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,0,0,0,-
+176,"([('vel x', '(-0.72, -0.652]'), ('angleVel', '(-0.0796, -0.0003]'), ('pos x', '(-0.3794, -0.1448]')], 'Fire down engine', Fire down engine    0.001929
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,0,0,0,-
+177,"([('vel x', '(-0.72, -0.652]'), ('angleVel', '(-0.0796, -0.0003]'), ('angle', '(0.0038, 0.0078]')], 'Fire down engine', Fire down engine    0.000643
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,0,0,0,-
+178,"([('vel x', '(-0.72, -0.652]'), ('angleVel', '(-0.303, -0.167]'), ('pos y', '(1.099, 1.338]')], 'Fire left engine', Fire left engine    0.003937
+Name: class, dtype: float64, Fire left engine    1.0
+Name: class, dtype: float64)",Fire left engine,0,0,0,-
+179,"([('pos y', '(1.378, 1.433]'), ('pos x', '(-0.3794, -0.1448]')], 'Fire left engine', Fire left engine     0.003937
+Fire right engine    0.003937
+Name: class, dtype: float64, Fire left engine     0.5
+Fire right engine    0.5
+Name: class, dtype: float64)",Fire left engine,1,1,0,1.0
+180,"([('pos y', '(1.378, 1.433]')], 'No action', No action            0.001075
+Fire right engine    0.001075
+Name: class, dtype: float64, No action            0.5
+Fire right engine    0.5
+Name: class, dtype: float64)",No action,0,0,0,-
+181,"([('vel x', '(-0.72, -0.652]'), ('pos x', '(-0.0884, -0.0496]')], 'Fire down engine', Fire down engine     0.001929
+Fire right engine    0.000643
+Name: class, dtype: float64, Fire down engine     0.75
+Fire right engine    0.25
+Name: class, dtype: float64)",Fire down engine,1,1,0,1.0
+182,"([('vel x', '(-0.72, -0.652]'), ('vel y', '(-0.368, -0.183]')], 'Fire down engine', Fire down engine    0.000643
+Fire left engine    0.000643
+Name: class, dtype: float64, Fire down engine    0.5
+Fire left engine    0.5
+Name: class, dtype: float64)",Fire down engine,0,0,0,-
+183,"([('angle', '(-0.601, -0.416]'), ('angleVel', '(-0.0796, -0.0003]')], 'Fire down engine', Fire down engine    0.001929
+Fire left engine    0.001929
+Name: class, dtype: float64, Fire down engine    0.5
+Fire left engine    0.5
+Name: class, dtype: float64)",Fire down engine,2,1,1,0.5
+184,"([('vel x', '(-0.72, -0.652]'), ('pos x', '(-0.3794, -0.1448]')], 'Fire down engine', Fire down engine     0.005788
+Fire right engine    0.001286
+Fire left engine     0.000643
+Name: class, dtype: float64, Fire down engine     0.750000
+Fire right engine    0.166667
+Fire left engine     0.083333
+Name: class, dtype: float64)",Fire down engine,5,5,0,1.0
+185,"([('vel x', '(-0.72, -0.652]')], 'Fire down engine', Fire down engine     0.003215
+Fire right engine    0.000643
+Fire left engine     0.000643
+Name: class, dtype: float64, Fire down engine     0.714286
+Fire right engine    0.142857
+Fire left engine     0.142857
+Name: class, dtype: float64)",Fire down engine,6,3,3,0.5
+186,"([('angle', '(-0.601, -0.416]'), ('angleVel', '(0.001, 0.0448]'), ('pos x', '(-0.3794, -0.1448]')], 'Fire left engine', Fire left engine    0.015748
+Name: class, dtype: float64, Fire left engine    1.0
+Name: class, dtype: float64)",Fire left engine,0,0,0,-
+187,"([('angle', '(-0.601, -0.416]'), ('angleVel', '(0.0448, 0.149]'), ('vel y', '(-0.368, -0.183]')], 'No action', No action    0.001075
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,2,1,1,0.5
+188,"([('angle', '(-0.601, -0.416]'), ('angleVel', '(-0.167, -0.0796]'), ('vel x', '(0.0057, 0.178]')], 'Fire left engine', Fire left engine    0.003937
+Name: class, dtype: float64, Fire left engine    1.0
+Name: class, dtype: float64)",Fire left engine,0,0,0,-
+189,"([('angle', '(-0.601, -0.416]'), ('vel y', '(-0.183, -0.0059]'), ('vel x', '(9.7e-05, 0.0057]')], 'Fire left engine', Fire left engine    0.011811
+Name: class, dtype: float64, Fire left engine    1.0
+Name: class, dtype: float64)",Fire left engine,2,2,0,1.0
+190,"([('angle', '(-0.601, -0.416]'), ('vel x', '(9.7e-05, 0.0057]'), ('pos y', '(1.099, 1.338]')], 'Fire down engine', Fire down engine    0.000643
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,0,0,0,-
+191,"([('angle', '(-0.601, -0.416]'), ('vel x', '(9.7e-05, 0.0057]')], 'No action', No action    0.001075
+Name: class, dtype: float64, No action    1.0
+Name: class, dtype: float64)",No action,0,0,0,-
+192,"([('angle', '(-0.601, -0.416]'), ('vel x', '(-0.168, -0.0044]'), ('vel y', '(-0.368, -0.183]')], 'Fire down engine', Fire down engine    0.001286
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,2,2,0,1.0
+193,"([('angle', '(-0.601, -0.416]'), ('vel y', '(-0.183, -0.0059]'), ('angleVel', '(-0.303, -0.167]'), ('pos x', '(-0.526, -0.3794]')], 'Fire down engine', Fire down engine    0.001286
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,0,0,0,-
+194,"([('angle', '(-0.601, -0.416]'), ('angleVel', '(-0.167, -0.0796]'), ('vel y', '(-0.183, -0.0059]'), ('pos y', '(0.466, 1.099]')], 'Fire down engine', Fire down engine    0.000643
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,1,0,1,0.0
+195,"([('angle', '(-0.601, -0.416]'), ('angleVel', '(0.001, 0.0448]'), ('pos y', '(1.099, 1.338]'), ('vel x', '(0.0057, 0.178]')], 'Fire left engine', Fire left engine    0.003937
+Name: class, dtype: float64, Fire left engine    1.0
+Name: class, dtype: float64)",Fire left engine,0,0,0,-
+196,"([('angle', '(-0.601, -0.416]'), ('vel x', '(-0.168, -0.0044]'), ('angleVel', '(0.001, 0.0448]'), ('pos y', '(0.466, 1.099]')], 'Fire left engine', Fire left engine    0.003937
+Name: class, dtype: float64, Fire left engine    1.0
+Name: class, dtype: float64)",Fire left engine,0,0,0,-
+197,"([('angle', '(-0.601, -0.416]'), ('angleVel', '(0.0448, 0.149]'), ('vel x', '(-0.168, -0.0044]'), ('pos y', '(0.466, 1.099]')], 'Fire left engine', Fire left engine    0.007874
+Name: class, dtype: float64, Fire left engine    1.0
+Name: class, dtype: float64)",Fire left engine,4,2,2,0.5
+198,"([('angle', '(-0.601, -0.416]'), ('angleVel', '(-0.167, -0.0796]'), ('pos x', '(-0.3794, -0.1448]')], 'Fire left engine', Fire left engine    0.031496
+Fire down engine    0.011811
+Name: class, dtype: float64, Fire left engine    0.727273
+Fire down engine    0.272727
+Name: class, dtype: float64)",Fire left engine,3,1,2,0.3333333333333333
+199,"([('angle', '(-0.601, -0.416]'), ('angleVel', '(0.0448, 0.149]'), ('pos y', '(1.099, 1.338]'), ('vel x', '(0.0057, 0.178]')], 'Fire left engine', Fire left engine    0.015748
+Name: class, dtype: float64, Fire left engine    1.0
+Name: class, dtype: float64)",Fire left engine,2,2,0,1.0
+200,"([('angle', '(-0.601, -0.416]'), ('angleVel', '(0.0448, 0.149]'), ('pos y', '(1.099, 1.338]'), ('pos x', '(-0.526, -0.3794]')], 'Fire down engine', Fire down engine    0.002572
+Fire left engine    0.001286
+Name: class, dtype: float64, Fire down engine    0.666667
+Fire left engine    0.333333
+Name: class, dtype: float64)",Fire down engine,3,1,2,0.3333333333333333
+201,"([('angle', '(-0.601, -0.416]'), ('angleVel', '(0.0448, 0.149]'), ('pos x', '(-0.3794, -0.1448]')], 'Fire down engine', Fire down engine    0.004502
+Fire left engine    0.002572
+Name: class, dtype: float64, Fire down engine    0.636364
+Fire left engine    0.363636
+Name: class, dtype: float64)",Fire down engine,6,3,3,0.5
+202,"([('angle', '(-0.601, -0.416]'), ('vel x', '(-0.168, -0.0044]'), ('angleVel', '(0.149, 0.361]'), ('pos x', '(-0.526, -0.3794]'), ('pos y', '(1.099, 1.338]')], 'Fire down engine', Fire down engine    0.000643
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,0,0,0,-
+203,"([('angle', '(-0.601, -0.416]'), ('vel x', '(-0.168, -0.0044]'), ('angleVel', '(0.149, 0.361]'), ('pos x', '(-0.3794, -0.1448]')], 'Fire left engine', Fire left engine    0.007874
+Fire down engine    0.003937
+Name: class, dtype: float64, Fire left engine    0.666667
+Fire down engine    0.333333
+Name: class, dtype: float64)",Fire left engine,0,0,0,-
+204,"([('angle', '(-0.601, -0.416]'), ('angleVel', '(0.001, 0.0448]'), ('pos y', '(1.099, 1.338]')], 'Fire down engine', Fire down engine    0.001286
+Fire left engine    0.001286
+Name: class, dtype: float64, Fire down engine    0.5
+Fire left engine    0.5
+Name: class, dtype: float64)",Fire down engine,0,0,0,-
+205,"([('angle', '(-0.601, -0.416]'), ('angleVel', '(-0.303, -0.167]'), ('pos y', '(0.466, 1.099]')], 'Fire down engine', Fire down engine    0.000643
+Name: class, dtype: float64, Fire down engine    1.0
+Name: class, dtype: float64)",Fire down engine,0,0,0,-
+206,"([('angle', '(-0.601, -0.416]'), ('angleVel', '(-0.303, -0.167]'), ('vel x', '(0.0057, 0.178]')], 'Fire left engine', Fire left engine    0.003937
+Name: class, dtype: float64, Fire left engine    1.0
+Name: class, dtype: float64)",Fire left engine,0,0,0,-
+207,"([('angle', '(-0.601, -0.416]'), ('angleVel', '(-0.167, -0.0796]'), ('pos y', '(0.466, 1.099]')], 'Fire down engine', Fire down engine    0.000643
+No action           0.000643
+Name: class, dtype: float64, Fire down engine    0.5
+No action           0.5
+Name: class, dtype: float64)",Fire down engine,3,1,2,0.3333333333333333
+208,"([('angle', '(-0.601, -0.416]'), ('angleVel', '(-0.167, -0.0796]'), ('vel y', '(0.0004, 0.0771]')], 'Fire left engine', Fire left engine    0.007874
+No action           0.003937
+Name: class, dtype: float64, Fire left engine    0.666667
+No action           0.333333
+Name: class, dtype: float64)",Fire left engine,2,2,0,1.0
+209,"([('angle', '(-0.601, -0.416]'), ('angleVel', '(-0.167, -0.0796]')], 'Fire down engine', Fire down engine    0.001929
+Fire left engine    0.001929
+Name: class, dtype: float64, Fire down engine    0.5
+Fire left engine    0.5
+Name: class, dtype: float64)",Fire down engine,1,1,0,1.0
+210,"([('angle', '(-0.601, -0.416]'), ('vel x', '(-0.168, -0.0044]'), ('pos y', '(0.466, 1.099]')], 'Fire down engine', Fire down engine    0.001286
+Fire left engine    0.001286
+Name: class, dtype: float64, Fire down engine    0.5
+Fire left engine    0.5
+Name: class, dtype: float64)",Fire down engine,0,0,0,-
+211,"(None, 'Fire down engine', Fire down engine     1.000000
+No action            0.598071
+Fire right engine    0.245659
+Fire left engine     0.163344
+Name: class, dtype: float64, Fire down engine     0.498238
+No action            0.297981
+Fire right engine    0.122397
+Fire left engine     0.081384
+Name: class, dtype: float64)",Fire down engine,985,588,397,0.5969543147208122
