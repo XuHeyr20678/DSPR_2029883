@@ -14,7 +14,7 @@ from IPython.display import clear_output
 from sklearn.metrics import accuracy_score
 
 
-#使用classifier做可解释AI
+#Using a classifier for interpretable AI
 classifier = CLASSIFIERS[1]
 model = classifier()
 
