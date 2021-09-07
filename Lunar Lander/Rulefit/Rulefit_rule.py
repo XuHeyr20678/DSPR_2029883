@@ -17,7 +17,7 @@ from sklearn.metrics import accuracy_score
 def transform_state(state):
     return np.array(state)
 
-#使用classifier做可解释AI
+#Using a classifier for interpretable AI
 regressor = REGRESSORS[0]
 model = regressor()
            
