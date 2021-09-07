@@ -7,7 +7,7 @@ import pandas as pd
 from CN2 import CN2
 from sklearn.metrics import accuracy_score
 def convert(state):
-    # 将序号转换成行列
+    # change to x and y
     row = state // 12
     col = state % 12
     
@@ -349,16 +349,16 @@ if __name__ == '__main__':
     from frozen_environment import FrozenLakeEnv,MAPS
 
     map = MAPS['12x12']
-    #遍历地图上所有点judge_repeat
+    #Iterate over all points on the map judge_repeat
     total_count = 0
     success = 0
     fail = 0
     for i in range(len(map)):
         for j in range(len(map[i])):
 
-            #如果地图的该位置是'FROZEN',则选择该点为起始点训练
+            #If the location on the map is 'FROZEN', then select this point as the starting point for training
             if map[i][j] == 'F':
-                #加载环境
+                #load the environment
                 total_count += 1
                 env = FrozenLakeEnv(map_name='12x12',start=[i,j])
                 time.sleep(2)
@@ -378,14 +378,14 @@ if __name__ == '__main__':
                     convert_state = convert(state)
                     s = {'state': convert_state}
                     state = pd.DataFrame(s)
-                    #使用RuleFit预测动作，结果为浮点型，四舍五入取整
+                    #Predicted action, results are floating point, rounded to the nearest whole number
                     rules_performance = cn2.predict_one(state, rules)
 
                     action = int(rules_performance)
 
                     if convert_state[0] == 12: action = 2;
 
-                    #使用生成的动作在环境中执行
+                    #Execute in the environment using the generated actions
                     state, reward, done, _ = env.step(action)
                     steps += 1
 
