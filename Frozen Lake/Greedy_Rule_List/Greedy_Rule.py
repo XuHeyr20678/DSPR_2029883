@@ -77,13 +77,13 @@ for i in range(len(map)):
                 clear_output(wait=True)
                 env.render()
                 time.sleep(0.3)
-                #使用classifier预测动作，结果为浮点型，四舍五入取整
+                #Use classifier to predict actions, results are floating point, rounded to the nearest whole number
                 print(([convert(state)])[0])
                 print(model.predict([convert(state)])[0])
                 action = round(model.predict([convert(state)])[0])
                 action = int(action)
 
-                #使用生成的动作在环境中执行
+                #Execute in the environment using the generated actions
                 state, reward, done, _ = env.step(action)
                 steps += 1
 
