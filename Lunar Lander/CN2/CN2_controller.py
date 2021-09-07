@@ -15,7 +15,7 @@ import pandas as pd
 from sklearn.metrics import accuracy_score
 
 def convert(state):
-    # 将序号转换成行列
+    # row and col
     row = state // 12
     col = state % 12
     
@@ -373,7 +373,7 @@ if __name__ == '__main__':
             convert_state = transform_state(state)
             s = {'state': convert_state}
             state = pd.DataFrame(s)
-            # 使用RuleFit预测动作，结果为浮点型，四舍五入取整
+            # Use CN2 to predict actions, results are floating point, rounded to the nearest whole number
             rules_performance = cn2.predict_one(state, rules)
 
             action = int(rules_performance)
