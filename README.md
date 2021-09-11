@@ -10,3 +10,7 @@ The project is about the XAI algorithms for Black-Box Policy in the Reinforcemen
 The environments of this project are the improved Frozen Lake and Lunar Lander. They are based on the [Open AI Gym](https://github.com/openai/gym.git).  
 The XAI algorithms in this project are Greedy Rule List, CN2 and Rulefit.  
 All of the codes are showed in this repository. And the detailed introduction of each part will show in each folder.  
+
+## The Licence Description
+------------------------------------------------------------------------------------------------------------------------------------
+This reposititory is public. If you want to use it. Please contact the author.
